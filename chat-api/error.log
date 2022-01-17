@@ -1,0 +1,2647 @@
+Response Code:  404 - Method: POST - URL: /api/auth/login
+
+
+    {"statusCode":404,"error":"Invalid Credentials","path":"/api/auth/login","method":"POST","timeStamp":"2021-11-16T15:28:07.977Z"}
+
+  
+    User: "Not signed in"
+
+
+      HttpException: Http Exception
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\src\auth\services\auth.service.ts:59:17
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\switchMap.ts:106:21
+    at OperatorSubscriber._this._next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\OperatorSubscriber.ts:43:13)
+    at OperatorSubscriber.Subscriber.next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\Subscriber.ts:75:12)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\observable\innerFrom.ts:89:24
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+
+Response Code:  404 - Method: POST - URL: /api/auth/login
+
+
+    {"statusCode":404,"error":"Invalid Credentials","path":"/api/auth/login","method":"POST","timeStamp":"2021-11-16T15:34:41.180Z"}
+
+  
+    User: "Not signed in"
+
+
+      HttpException: Http Exception
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\src\auth\services\auth.service.ts:59:17
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\switchMap.ts:106:21
+    at OperatorSubscriber._this._next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\OperatorSubscriber.ts:43:13)
+    at OperatorSubscriber.Subscriber.next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\Subscriber.ts:75:12)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\observable\innerFrom.ts:89:24
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+
+Response Code:  404 - Method: POST - URL: /api/auth/login
+
+
+    {"statusCode":404,"error":"Invalid Credentials","path":"/api/auth/login","method":"POST","timeStamp":"2021-11-16T15:35:21.600Z"}
+
+  
+    User: "Not signed in"
+
+
+      HttpException: Http Exception
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\src\auth\services\auth.service.ts:59:17
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\switchMap.ts:106:21
+    at OperatorSubscriber._this._next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\OperatorSubscriber.ts:43:13)
+    at OperatorSubscriber.Subscriber.next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\Subscriber.ts:75:12)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\observable\innerFrom.ts:89:24
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+
+Response Code:  404 - Method: POST - URL: /api/auth/login
+
+
+    {"statusCode":404,"error":"Invalid Credentials","path":"/api/auth/login","method":"POST","timeStamp":"2021-11-16T15:39:06.324Z"}
+
+  
+    User: "Not signed in"
+
+
+      HttpException: Http Exception
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\src\auth\services\auth.service.ts:59:17
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\switchMap.ts:106:21
+    at OperatorSubscriber._this._next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\OperatorSubscriber.ts:43:13)
+    at OperatorSubscriber.Subscriber.next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\Subscriber.ts:75:12)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\observable\innerFrom.ts:89:24
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+
+Response Code:  403 - Method: PUT - URL: /api/feed/2
+
+
+    {"statusCode":403,"error":"Forbidden","path":"/api/feed/2","method":"PUT","timeStamp":"2021-11-16T15:43:12.909Z"}
+
+  
+    User: {"id":1,"firstName":"Jon ","lastName":"Gemelo","email":"jon@hotmail.com","role":"user"}
+
+
+      ForbiddenException: Forbidden resource
+    at canActivateFn (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\@nestjs\core\router\router-execution-context.js:136:23)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\@nestjs\core\router\router-execution-context.js:42:31
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\@nestjs\core\router\router-proxy.js:9:17
+
+Response Code:  404 - Method: POST - URL: /api/auth/login
+
+
+    {"statusCode":404,"error":"Invalid Credentials","path":"/api/auth/login","method":"POST","timeStamp":"2021-11-16T15:47:42.482Z"}
+
+  
+    User: "Not signed in"
+
+
+      HttpException: Http Exception
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\src\auth\services\auth.service.ts:59:17
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\switchMap.ts:106:21
+    at OperatorSubscriber._this._next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\OperatorSubscriber.ts:43:13)
+    at OperatorSubscriber.Subscriber.next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\Subscriber.ts:75:12)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\observable\innerFrom.ts:89:24
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+
+Response Code:  400 - Method: POST - URL: /api/auth/login
+
+
+    {"statusCode":400,"error":"Bad Request","path":"/api/auth/login","method":"POST","timeStamp":"2021-11-16T15:54:07.586Z"}
+
+  
+    User: "Not signed in"
+
+
+      BadRequestException: Bad Request Exception
+    at ValidationPipe.exceptionFactory (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\@nestjs\common\pipes\validation.pipe.js:89:20)
+    at ValidationPipe.transform (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\@nestjs\common\pipes\validation.pipe.js:65:30)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+    at resolveParamValue (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\@nestjs\core\router\router-execution-context.js:147:23)
+    at async Promise.all (index 0)
+    at pipesFn (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\@nestjs\core\router\router-execution-context.js:150:13)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\@nestjs\core\router\router-execution-context.js:37:30
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\@nestjs\core\router\router-execution-context.js:46:28
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\@nestjs\core\router\router-proxy.js:9:17
+
+Response Code:  401 - Method: GET - URL: /api/user/1
+
+
+    {"statusCode":401,"error":"Unauthorized","path":"/api/user/1","method":"GET","timeStamp":"2021-11-16T16:03:02.199Z"}
+
+  
+    User: "Not signed in"
+
+
+      UnauthorizedException: Unauthorized
+    at JwtGuard.handleRequest (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\@nestjs\passport\dist\auth.guard.js:68:30)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\@nestjs\passport\dist\auth.guard.js:49:128
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\@nestjs\passport\dist\auth.guard.js:86:24
+    at allFailed (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\passport\lib\middleware\authenticate.js:101:18)
+    at attempt (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\passport\lib\middleware\authenticate.js:174:28)
+    at JwtStrategy.strategy.fail (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\passport\lib\middleware\authenticate.js:296:9)
+    at JwtStrategy.authenticate (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\passport-jwt\lib\strategy.js:96:21)
+    at attempt (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\passport\lib\middleware\authenticate.js:360:16)
+    at authenticate (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\passport\lib\middleware\authenticate.js:361:7)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\@nestjs\passport\dist\auth.guard.js:91:3
+
+Response Code:  401 - Method: GET - URL: /api/user/6
+
+
+    {"statusCode":401,"error":"Unauthorized","path":"/api/user/6","method":"GET","timeStamp":"2021-11-16T16:07:04.026Z"}
+
+  
+    User: "Not signed in"
+
+
+      UnauthorizedException: Unauthorized
+    at JwtGuard.handleRequest (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\@nestjs\passport\dist\auth.guard.js:68:30)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\@nestjs\passport\dist\auth.guard.js:49:128
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\@nestjs\passport\dist\auth.guard.js:86:24
+    at allFailed (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\passport\lib\middleware\authenticate.js:101:18)
+    at attempt (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\passport\lib\middleware\authenticate.js:174:28)
+    at JwtStrategy.strategy.fail (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\passport\lib\middleware\authenticate.js:296:9)
+    at JwtStrategy.authenticate (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\passport-jwt\lib\strategy.js:96:21)
+    at attempt (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\passport\lib\middleware\authenticate.js:360:16)
+    at authenticate (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\passport\lib\middleware\authenticate.js:361:7)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\@nestjs\passport\dist\auth.guard.js:91:3
+
+Response Code:  401 - Method: GET - URL: /api/user/6
+
+
+    {"statusCode":401,"error":"Unauthorized","path":"/api/user/6","method":"GET","timeStamp":"2021-11-16T16:08:06.306Z"}
+
+  
+    User: "Not signed in"
+
+
+      UnauthorizedException: Unauthorized
+    at JwtGuard.handleRequest (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\@nestjs\passport\dist\auth.guard.js:68:30)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\@nestjs\passport\dist\auth.guard.js:49:128
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\@nestjs\passport\dist\auth.guard.js:86:24
+    at allFailed (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\passport\lib\middleware\authenticate.js:101:18)
+    at attempt (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\passport\lib\middleware\authenticate.js:174:28)
+    at JwtStrategy.strategy.fail (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\passport\lib\middleware\authenticate.js:296:9)
+    at JwtStrategy.authenticate (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\passport-jwt\lib\strategy.js:96:21)
+    at attempt (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\passport\lib\middleware\authenticate.js:360:16)
+    at authenticate (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\passport\lib\middleware\authenticate.js:361:7)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\@nestjs\passport\dist\auth.guard.js:91:3
+
+Response Code:  404 - Method: GET - URL: /api/user/6
+
+
+    {"statusCode":404,"error":"User not found","path":"/api/user/6","method":"GET","timeStamp":"2021-11-16T16:08:28.570Z"}
+
+  
+    User: {"id":3,"firstName":"Jon3 ","lastName":"Gemelo","email":"jon3@hotmail.com","role":"user"}
+
+
+      HttpException: User not found
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\src\auth\services\user.service.ts:31:17
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\map.ts:56:33
+    at OperatorSubscriber._this._next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\OperatorSubscriber.ts:43:13)
+    at OperatorSubscriber.Subscriber.next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\Subscriber.ts:75:12)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\observable\innerFrom.ts:89:24
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+
+Response Code:  500 - Method: GET - URL: /api/feed/image/default-profile-pic.png
+
+
+    {"statusCode":500,"error":"Critical internal server error occurred!","path":"/api/feed/image/default-profile-pic.png","method":"GET","timeStamp":"2021-11-16T16:10:01.579Z"}
+
+  
+    User: "Not signed in"
+
+
+      Critical internal server error occurred!
+
+Response Code:  500 - Method: GET - URL: /api/feed/image/default-profile-pic.png
+
+
+    {"statusCode":500,"error":"Critical internal server error occurred!","path":"/api/feed/image/default-profile-pic.png","method":"GET","timeStamp":"2021-11-17T11:57:44.776Z"}
+
+  
+    User: "Not signed in"
+
+
+      Critical internal server error occurred!
+
+Response Code:  500 - Method: GET - URL: /api/feed/image/default-profile-pic.png
+
+
+    {"statusCode":500,"error":"Critical internal server error occurred!","path":"/api/feed/image/default-profile-pic.png","method":"GET","timeStamp":"2021-11-17T11:58:19.687Z"}
+
+  
+    User: "Not signed in"
+
+
+      Critical internal server error occurred!
+
+Response Code:  404 - Method: GET - URL: /favicon.ico
+
+
+    {"statusCode":404,"error":"Not Found","path":"/favicon.ico","method":"GET","timeStamp":"2021-11-17T11:58:19.913Z"}
+
+  
+    User: "Not signed in"
+
+
+      NotFoundException: Cannot GET /favicon.ico
+    at callback (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\@nestjs\core\router\routes-resolver.js:77:19)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\@nestjs\core\router\router-proxy.js:9:23
+    at Layer.handle [as handle_request] (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\express\lib\router\index.js:275:10)
+    at urlencodedParser (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\body-parser\lib\types\urlencoded.js:91:7)
+    at Layer.handle [as handle_request] (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\express\lib\router\index.js:317:13)
+
+Response Code:  500 - Method: GET - URL: /api/feed/image/default-profile-pic.png
+
+
+    {"statusCode":500,"error":"Critical internal server error occurred!","path":"/api/feed/image/default-profile-pic.png","method":"GET","timeStamp":"2021-11-17T11:59:26.430Z"}
+
+  
+    User: "Not signed in"
+
+
+      Critical internal server error occurred!
+
+Response Code:  500 - Method: GET - URL: /api/feed/image/default-profile-pic.png
+
+
+    {"statusCode":500,"error":"Critical internal server error occurred!","path":"/api/feed/image/default-profile-pic.png","method":"GET","timeStamp":"2021-11-17T11:59:29.299Z"}
+
+  
+    User: "Not signed in"
+
+
+      Critical internal server error occurred!
+
+Response Code:  500 - Method: GET - URL: /api/feed/image/default-profile-pic.png
+
+
+    {"statusCode":500,"error":"Critical internal server error occurred!","path":"/api/feed/image/default-profile-pic.png","method":"GET","timeStamp":"2021-11-17T11:59:47.733Z"}
+
+  
+    User: "Not signed in"
+
+
+      Critical internal server error occurred!
+
+Response Code:  500 - Method: GET - URL: /api/feed/image/default-profile-pic.png
+
+
+    {"statusCode":500,"error":"Critical internal server error occurred!","path":"/api/feed/image/default-profile-pic.png","method":"GET","timeStamp":"2021-11-17T12:00:08.628Z"}
+
+  
+    User: "Not signed in"
+
+
+      Critical internal server error occurred!
+
+Response Code:  500 - Method: GET - URL: /api/feed/image/default-profile-pic.png
+
+
+    {"statusCode":500,"error":"Critical internal server error occurred!","path":"/api/feed/image/default-profile-pic.png","method":"GET","timeStamp":"2021-11-17T12:05:56.980Z"}
+
+  
+    User: "Not signed in"
+
+
+      Critical internal server error occurred!
+
+Response Code:  500 - Method: GET - URL: /api/feed/image/default-profile-pic.png
+
+
+    {"statusCode":500,"error":"Critical internal server error occurred!","path":"/api/feed/image/default-profile-pic.png","method":"GET","timeStamp":"2021-11-17T12:14:42.575Z"}
+
+  
+    User: "Not signed in"
+
+
+      Critical internal server error occurred!
+
+Response Code:  500 - Method: GET - URL: /api/feed/image/default-profile-pic.png
+
+
+    {"statusCode":500,"error":"Critical internal server error occurred!","path":"/api/feed/image/default-profile-pic.png","method":"GET","timeStamp":"2021-11-17T12:14:49.380Z"}
+
+  
+    User: "Not signed in"
+
+
+      Critical internal server error occurred!
+
+Response Code:  500 - Method: GET - URL: /api/feed/image/default-profile-pic.png
+
+
+    {"statusCode":500,"error":"Critical internal server error occurred!","path":"/api/feed/image/default-profile-pic.png","method":"GET","timeStamp":"2021-11-17T12:14:52.501Z"}
+
+  
+    User: "Not signed in"
+
+
+      Critical internal server error occurred!
+
+Response Code:  500 - Method: GET - URL: /api/feed/image/default-profile-pic.png
+
+
+    {"statusCode":500,"error":"Critical internal server error occurred!","path":"/api/feed/image/default-profile-pic.png","method":"GET","timeStamp":"2021-11-17T12:16:03.553Z"}
+
+  
+    User: "Not signed in"
+
+
+      Critical internal server error occurred!
+
+Response Code:  500 - Method: POST - URL: /api/auth/register
+
+
+    {"statusCode":500,"error":"Critical internal server error occurred!","path":"/api/auth/register","method":"POST","timeStamp":"2021-11-18T14:31:05.484Z"}
+
+  
+    User: "Not signed in"
+
+
+      Critical internal server error occurred!
+
+Response Code:  500 - Method: POST - URL: /api/auth/register
+
+
+    {"statusCode":500,"error":"Critical internal server error occurred!","path":"/api/auth/register","method":"POST","timeStamp":"2021-11-18T14:54:09.998Z"}
+
+  
+    User: "Not signed in"
+
+
+      Critical internal server error occurred!
+
+Response Code:  400 - Method: POST - URL: /api/auth/register
+
+
+    {"statusCode":400,"error":"A user has already been created with that email adderess","path":"/api/auth/register","method":"POST","timeStamp":"2021-11-18T14:54:48.411Z"}
+
+  
+    User: "Not signed in"
+
+
+      HttpException: A user has already been created with that email adderess
+    at Object.next (C:\Users\Jose\Desktop\chatApplication\chat-api\src\auth\services\auth.service.ts:39:17)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\tap.ts:136:31
+    at OperatorSubscriber._this._next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\OperatorSubscriber.ts:43:13)
+    at OperatorSubscriber.Subscriber.next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\Subscriber.ts:75:12)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\switchMap.ts:112:42
+    at OperatorSubscriber._this._next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\OperatorSubscriber.ts:43:13)
+    at OperatorSubscriber.Subscriber.next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\Subscriber.ts:75:12)
+    at Observable._subscribe (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\observable\innerFrom.ts:77:18)
+    at Observable._trySubscribe (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\Observable.ts:244:19)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\Observable.ts:234:18
+
+Response Code:  400 - Method: POST - URL: /api/auth/register
+
+
+    {"statusCode":400,"error":"A user has already been created with that email adderess","path":"/api/auth/register","method":"POST","timeStamp":"2021-11-18T14:54:48.614Z"}
+
+  
+    User: "Not signed in"
+
+
+      HttpException: A user has already been created with that email adderess
+    at Object.next (C:\Users\Jose\Desktop\chatApplication\chat-api\src\auth\services\auth.service.ts:39:17)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\tap.ts:136:31
+    at OperatorSubscriber._this._next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\OperatorSubscriber.ts:43:13)
+    at OperatorSubscriber.Subscriber.next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\Subscriber.ts:75:12)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\switchMap.ts:112:42
+    at OperatorSubscriber._this._next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\OperatorSubscriber.ts:43:13)
+    at OperatorSubscriber.Subscriber.next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\Subscriber.ts:75:12)
+    at Observable._subscribe (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\observable\innerFrom.ts:77:18)
+    at Observable._trySubscribe (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\Observable.ts:244:19)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\Observable.ts:234:18
+
+Response Code:  400 - Method: POST - URL: /api/auth/register
+
+
+    {"statusCode":400,"error":"A user has already been created with that email adderess","path":"/api/auth/register","method":"POST","timeStamp":"2021-11-18T14:56:53.850Z"}
+
+  
+    User: "Not signed in"
+
+
+      HttpException: A user has already been created with that email adderess
+    at Object.next (C:\Users\Jose\Desktop\chatApplication\chat-api\src\auth\services\auth.service.ts:39:17)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\tap.ts:136:31
+    at OperatorSubscriber._this._next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\OperatorSubscriber.ts:43:13)
+    at OperatorSubscriber.Subscriber.next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\Subscriber.ts:75:12)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\switchMap.ts:112:42
+    at OperatorSubscriber._this._next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\OperatorSubscriber.ts:43:13)
+    at OperatorSubscriber.Subscriber.next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\Subscriber.ts:75:12)
+    at Observable._subscribe (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\observable\innerFrom.ts:77:18)
+    at Observable._trySubscribe (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\Observable.ts:244:19)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\Observable.ts:234:18
+
+Response Code:  400 - Method: POST - URL: /api/auth/register
+
+
+    {"statusCode":400,"error":"A user has already been created with that email adderess","path":"/api/auth/register","method":"POST","timeStamp":"2021-11-18T14:56:53.926Z"}
+
+  
+    User: "Not signed in"
+
+
+      HttpException: A user has already been created with that email adderess
+    at Object.next (C:\Users\Jose\Desktop\chatApplication\chat-api\src\auth\services\auth.service.ts:39:17)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\tap.ts:136:31
+    at OperatorSubscriber._this._next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\OperatorSubscriber.ts:43:13)
+    at OperatorSubscriber.Subscriber.next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\Subscriber.ts:75:12)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\switchMap.ts:112:42
+    at OperatorSubscriber._this._next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\OperatorSubscriber.ts:43:13)
+    at OperatorSubscriber.Subscriber.next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\Subscriber.ts:75:12)
+    at Observable._subscribe (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\observable\innerFrom.ts:77:18)
+    at Observable._trySubscribe (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\Observable.ts:244:19)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\Observable.ts:234:18
+
+Response Code:  400 - Method: POST - URL: /api/auth/register
+
+
+    {"statusCode":400,"error":"A user has already been created with that email adderess","path":"/api/auth/register","method":"POST","timeStamp":"2021-11-18T14:58:27.566Z"}
+
+  
+    User: "Not signed in"
+
+
+      HttpException: A user has already been created with that email adderess
+    at Object.next (C:\Users\Jose\Desktop\chatApplication\chat-api\src\auth\services\auth.service.ts:39:17)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\tap.ts:136:31
+    at OperatorSubscriber._this._next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\OperatorSubscriber.ts:43:13)
+    at OperatorSubscriber.Subscriber.next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\Subscriber.ts:75:12)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\switchMap.ts:112:42
+    at OperatorSubscriber._this._next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\OperatorSubscriber.ts:43:13)
+    at OperatorSubscriber.Subscriber.next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\Subscriber.ts:75:12)
+    at Observable._subscribe (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\observable\innerFrom.ts:77:18)
+    at Observable._trySubscribe (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\Observable.ts:244:19)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\Observable.ts:234:18
+
+Response Code:  400 - Method: POST - URL: /api/auth/register
+
+
+    {"statusCode":400,"error":"A user has already been created with that email adderess","path":"/api/auth/register","method":"POST","timeStamp":"2021-11-18T14:58:27.637Z"}
+
+  
+    User: "Not signed in"
+
+
+      HttpException: A user has already been created with that email adderess
+    at Object.next (C:\Users\Jose\Desktop\chatApplication\chat-api\src\auth\services\auth.service.ts:39:17)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\tap.ts:136:31
+    at OperatorSubscriber._this._next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\OperatorSubscriber.ts:43:13)
+    at OperatorSubscriber.Subscriber.next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\Subscriber.ts:75:12)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\switchMap.ts:112:42
+    at OperatorSubscriber._this._next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\OperatorSubscriber.ts:43:13)
+    at OperatorSubscriber.Subscriber.next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\Subscriber.ts:75:12)
+    at Observable._subscribe (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\observable\innerFrom.ts:77:18)
+    at Observable._trySubscribe (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\Observable.ts:244:19)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\Observable.ts:234:18
+
+Response Code:  400 - Method: POST - URL: /api/auth/register
+
+
+    {"statusCode":400,"error":"A user has already been created with that email adderess","path":"/api/auth/register","method":"POST","timeStamp":"2021-11-18T14:59:17.291Z"}
+
+  
+    User: "Not signed in"
+
+
+      HttpException: A user has already been created with that email adderess
+    at Object.next (C:\Users\Jose\Desktop\chatApplication\chat-api\src\auth\services\auth.service.ts:39:17)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\tap.ts:136:31
+    at OperatorSubscriber._this._next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\OperatorSubscriber.ts:43:13)
+    at OperatorSubscriber.Subscriber.next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\Subscriber.ts:75:12)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\switchMap.ts:112:42
+    at OperatorSubscriber._this._next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\OperatorSubscriber.ts:43:13)
+    at OperatorSubscriber.Subscriber.next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\Subscriber.ts:75:12)
+    at Observable._subscribe (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\observable\innerFrom.ts:77:18)
+    at Observable._trySubscribe (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\Observable.ts:244:19)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\Observable.ts:234:18
+
+Response Code:  400 - Method: POST - URL: /api/auth/register
+
+
+    {"statusCode":400,"error":"A user has already been created with that email adderess","path":"/api/auth/register","method":"POST","timeStamp":"2021-11-18T15:00:27.585Z"}
+
+  
+    User: "Not signed in"
+
+
+      HttpException: A user has already been created with that email adderess
+    at Object.next (C:\Users\Jose\Desktop\chatApplication\chat-api\src\auth\services\auth.service.ts:39:17)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\tap.ts:136:31
+    at OperatorSubscriber._this._next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\OperatorSubscriber.ts:43:13)
+    at OperatorSubscriber.Subscriber.next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\Subscriber.ts:75:12)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\switchMap.ts:112:42
+    at OperatorSubscriber._this._next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\OperatorSubscriber.ts:43:13)
+    at OperatorSubscriber.Subscriber.next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\Subscriber.ts:75:12)
+    at Observable._subscribe (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\observable\innerFrom.ts:77:18)
+    at Observable._trySubscribe (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\Observable.ts:244:19)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\Observable.ts:234:18
+
+Response Code:  400 - Method: POST - URL: /api/auth/register
+
+
+    {"statusCode":400,"error":"A user has already been created with that email adderess","path":"/api/auth/register","method":"POST","timeStamp":"2021-11-18T15:00:27.646Z"}
+
+  
+    User: "Not signed in"
+
+
+      HttpException: A user has already been created with that email adderess
+    at Object.next (C:\Users\Jose\Desktop\chatApplication\chat-api\src\auth\services\auth.service.ts:39:17)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\tap.ts:136:31
+    at OperatorSubscriber._this._next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\OperatorSubscriber.ts:43:13)
+    at OperatorSubscriber.Subscriber.next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\Subscriber.ts:75:12)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\switchMap.ts:112:42
+    at OperatorSubscriber._this._next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\OperatorSubscriber.ts:43:13)
+    at OperatorSubscriber.Subscriber.next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\Subscriber.ts:75:12)
+    at Observable._subscribe (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\observable\innerFrom.ts:77:18)
+    at Observable._trySubscribe (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\Observable.ts:244:19)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\Observable.ts:234:18
+
+Response Code:  400 - Method: POST - URL: /api/auth/register
+
+
+    {"statusCode":400,"error":"A user has already been created with that email adderess","path":"/api/auth/register","method":"POST","timeStamp":"2021-11-18T15:01:30.431Z"}
+
+  
+    User: "Not signed in"
+
+
+      HttpException: A user has already been created with that email adderess
+    at Object.next (C:\Users\Jose\Desktop\chatApplication\chat-api\src\auth\services\auth.service.ts:39:17)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\tap.ts:136:31
+    at OperatorSubscriber._this._next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\OperatorSubscriber.ts:43:13)
+    at OperatorSubscriber.Subscriber.next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\Subscriber.ts:75:12)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\switchMap.ts:112:42
+    at OperatorSubscriber._this._next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\OperatorSubscriber.ts:43:13)
+    at OperatorSubscriber.Subscriber.next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\Subscriber.ts:75:12)
+    at Observable._subscribe (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\observable\innerFrom.ts:77:18)
+    at Observable._trySubscribe (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\Observable.ts:244:19)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\Observable.ts:234:18
+
+Response Code:  400 - Method: POST - URL: /api/auth/register
+
+
+    {"statusCode":400,"error":"A user has already been created with that email adderess","path":"/api/auth/register","method":"POST","timeStamp":"2021-11-18T15:01:30.498Z"}
+
+  
+    User: "Not signed in"
+
+
+      HttpException: A user has already been created with that email adderess
+    at Object.next (C:\Users\Jose\Desktop\chatApplication\chat-api\src\auth\services\auth.service.ts:39:17)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\tap.ts:136:31
+    at OperatorSubscriber._this._next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\OperatorSubscriber.ts:43:13)
+    at OperatorSubscriber.Subscriber.next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\Subscriber.ts:75:12)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\switchMap.ts:112:42
+    at OperatorSubscriber._this._next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\OperatorSubscriber.ts:43:13)
+    at OperatorSubscriber.Subscriber.next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\Subscriber.ts:75:12)
+    at Observable._subscribe (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\observable\innerFrom.ts:77:18)
+    at Observable._trySubscribe (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\Observable.ts:244:19)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\Observable.ts:234:18
+
+Response Code:  400 - Method: POST - URL: /api/auth/register
+
+
+    {"statusCode":400,"error":"A user has already been created with that email adderess","path":"/api/auth/register","method":"POST","timeStamp":"2021-11-18T15:02:38.490Z"}
+
+  
+    User: "Not signed in"
+
+
+      HttpException: A user has already been created with that email adderess
+    at Object.next (C:\Users\Jose\Desktop\chatApplication\chat-api\src\auth\services\auth.service.ts:39:17)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\tap.ts:136:31
+    at OperatorSubscriber._this._next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\OperatorSubscriber.ts:43:13)
+    at OperatorSubscriber.Subscriber.next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\Subscriber.ts:75:12)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\switchMap.ts:112:42
+    at OperatorSubscriber._this._next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\OperatorSubscriber.ts:43:13)
+    at OperatorSubscriber.Subscriber.next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\Subscriber.ts:75:12)
+    at Observable._subscribe (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\observable\innerFrom.ts:77:18)
+    at Observable._trySubscribe (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\Observable.ts:244:19)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\Observable.ts:234:18
+
+Response Code:  400 - Method: POST - URL: /api/auth/register
+
+
+    {"statusCode":400,"error":"A user has already been created with that email adderess","path":"/api/auth/register","method":"POST","timeStamp":"2021-11-18T15:02:38.563Z"}
+
+  
+    User: "Not signed in"
+
+
+      HttpException: A user has already been created with that email adderess
+    at Object.next (C:\Users\Jose\Desktop\chatApplication\chat-api\src\auth\services\auth.service.ts:39:17)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\tap.ts:136:31
+    at OperatorSubscriber._this._next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\OperatorSubscriber.ts:43:13)
+    at OperatorSubscriber.Subscriber.next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\Subscriber.ts:75:12)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\switchMap.ts:112:42
+    at OperatorSubscriber._this._next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\OperatorSubscriber.ts:43:13)
+    at OperatorSubscriber.Subscriber.next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\Subscriber.ts:75:12)
+    at Observable._subscribe (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\observable\innerFrom.ts:77:18)
+    at Observable._trySubscribe (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\Observable.ts:244:19)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\Observable.ts:234:18
+
+Response Code:  400 - Method: POST - URL: /api/auth/register
+
+
+    {"statusCode":400,"error":"A user has already been created with that email adderess","path":"/api/auth/register","method":"POST","timeStamp":"2021-11-18T15:03:21.352Z"}
+
+  
+    User: "Not signed in"
+
+
+      HttpException: A user has already been created with that email adderess
+    at Object.next (C:\Users\Jose\Desktop\chatApplication\chat-api\src\auth\services\auth.service.ts:39:17)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\tap.ts:136:31
+    at OperatorSubscriber._this._next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\OperatorSubscriber.ts:43:13)
+    at OperatorSubscriber.Subscriber.next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\Subscriber.ts:75:12)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\switchMap.ts:112:42
+    at OperatorSubscriber._this._next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\OperatorSubscriber.ts:43:13)
+    at OperatorSubscriber.Subscriber.next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\Subscriber.ts:75:12)
+    at Observable._subscribe (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\observable\innerFrom.ts:77:18)
+    at Observable._trySubscribe (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\Observable.ts:244:19)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\Observable.ts:234:18
+
+Response Code:  400 - Method: POST - URL: /api/auth/register
+
+
+    {"statusCode":400,"error":"A user has already been created with that email adderess","path":"/api/auth/register","method":"POST","timeStamp":"2021-11-18T15:03:21.411Z"}
+
+  
+    User: "Not signed in"
+
+
+      HttpException: A user has already been created with that email adderess
+    at Object.next (C:\Users\Jose\Desktop\chatApplication\chat-api\src\auth\services\auth.service.ts:39:17)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\tap.ts:136:31
+    at OperatorSubscriber._this._next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\OperatorSubscriber.ts:43:13)
+    at OperatorSubscriber.Subscriber.next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\Subscriber.ts:75:12)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\switchMap.ts:112:42
+    at OperatorSubscriber._this._next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\OperatorSubscriber.ts:43:13)
+    at OperatorSubscriber.Subscriber.next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\Subscriber.ts:75:12)
+    at Observable._subscribe (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\observable\innerFrom.ts:77:18)
+    at Observable._trySubscribe (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\Observable.ts:244:19)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\Observable.ts:234:18
+
+Response Code:  404 - Method: POST - URL: /api/auth/login
+
+
+    {"statusCode":404,"error":"Invalid Credentials","path":"/api/auth/login","method":"POST","timeStamp":"2021-11-18T15:03:21.421Z"}
+
+  
+    User: "Not signed in"
+
+
+      HttpException: Http Exception
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\src\auth\services\auth.service.ts:78:17
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\switchMap.ts:106:21
+    at OperatorSubscriber._this._next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\OperatorSubscriber.ts:43:13)
+    at OperatorSubscriber.Subscriber.next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\Subscriber.ts:75:12)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\observable\innerFrom.ts:89:24
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+
+Response Code:  400 - Method: POST - URL: /api/auth/register
+
+
+    {"statusCode":400,"error":"A user has already been created with that email adderess","path":"/api/auth/register","method":"POST","timeStamp":"2021-11-18T15:04:10.555Z"}
+
+  
+    User: "Not signed in"
+
+
+      HttpException: A user has already been created with that email adderess
+    at Object.next (C:\Users\Jose\Desktop\chatApplication\chat-api\src\auth\services\auth.service.ts:39:17)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\tap.ts:136:31
+    at OperatorSubscriber._this._next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\OperatorSubscriber.ts:43:13)
+    at OperatorSubscriber.Subscriber.next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\Subscriber.ts:75:12)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\switchMap.ts:112:42
+    at OperatorSubscriber._this._next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\OperatorSubscriber.ts:43:13)
+    at OperatorSubscriber.Subscriber.next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\Subscriber.ts:75:12)
+    at Observable._subscribe (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\observable\innerFrom.ts:77:18)
+    at Observable._trySubscribe (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\Observable.ts:244:19)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\Observable.ts:234:18
+
+Response Code:  400 - Method: POST - URL: /api/auth/register
+
+
+    {"statusCode":400,"error":"A user has already been created with that email adderess","path":"/api/auth/register","method":"POST","timeStamp":"2021-11-18T15:04:10.611Z"}
+
+  
+    User: "Not signed in"
+
+
+      HttpException: A user has already been created with that email adderess
+    at Object.next (C:\Users\Jose\Desktop\chatApplication\chat-api\src\auth\services\auth.service.ts:39:17)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\tap.ts:136:31
+    at OperatorSubscriber._this._next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\OperatorSubscriber.ts:43:13)
+    at OperatorSubscriber.Subscriber.next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\Subscriber.ts:75:12)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\switchMap.ts:112:42
+    at OperatorSubscriber._this._next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\OperatorSubscriber.ts:43:13)
+    at OperatorSubscriber.Subscriber.next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\Subscriber.ts:75:12)
+    at Observable._subscribe (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\observable\innerFrom.ts:77:18)
+    at Observable._trySubscribe (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\Observable.ts:244:19)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\Observable.ts:234:18
+
+Response Code:  404 - Method: POST - URL: /api/auth/login
+
+
+    {"statusCode":404,"error":"Invalid Credentials","path":"/api/auth/login","method":"POST","timeStamp":"2021-11-18T15:04:10.620Z"}
+
+  
+    User: "Not signed in"
+
+
+      HttpException: Http Exception
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\src\auth\services\auth.service.ts:78:17
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\switchMap.ts:106:21
+    at OperatorSubscriber._this._next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\OperatorSubscriber.ts:43:13)
+    at OperatorSubscriber.Subscriber.next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\Subscriber.ts:75:12)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\observable\innerFrom.ts:89:24
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+
+Response Code:  400 - Method: POST - URL: /api/auth/register
+
+
+    {"statusCode":400,"error":"A user has already been created with that email adderess","path":"/api/auth/register","method":"POST","timeStamp":"2021-11-18T15:04:47.473Z"}
+
+  
+    User: "Not signed in"
+
+
+      HttpException: A user has already been created with that email adderess
+    at Object.next (C:\Users\Jose\Desktop\chatApplication\chat-api\src\auth\services\auth.service.ts:39:17)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\tap.ts:136:31
+    at OperatorSubscriber._this._next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\OperatorSubscriber.ts:43:13)
+    at OperatorSubscriber.Subscriber.next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\Subscriber.ts:75:12)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\switchMap.ts:112:42
+    at OperatorSubscriber._this._next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\OperatorSubscriber.ts:43:13)
+    at OperatorSubscriber.Subscriber.next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\Subscriber.ts:75:12)
+    at Observable._subscribe (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\observable\innerFrom.ts:77:18)
+    at Observable._trySubscribe (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\Observable.ts:244:19)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\Observable.ts:234:18
+
+Response Code:  400 - Method: POST - URL: /api/auth/register
+
+
+    {"statusCode":400,"error":"A user has already been created with that email adderess","path":"/api/auth/register","method":"POST","timeStamp":"2021-11-18T15:04:47.551Z"}
+
+  
+    User: "Not signed in"
+
+
+      HttpException: A user has already been created with that email adderess
+    at Object.next (C:\Users\Jose\Desktop\chatApplication\chat-api\src\auth\services\auth.service.ts:39:17)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\tap.ts:136:31
+    at OperatorSubscriber._this._next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\OperatorSubscriber.ts:43:13)
+    at OperatorSubscriber.Subscriber.next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\Subscriber.ts:75:12)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\switchMap.ts:112:42
+    at OperatorSubscriber._this._next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\OperatorSubscriber.ts:43:13)
+    at OperatorSubscriber.Subscriber.next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\Subscriber.ts:75:12)
+    at Observable._subscribe (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\observable\innerFrom.ts:77:18)
+    at Observable._trySubscribe (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\Observable.ts:244:19)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\Observable.ts:234:18
+
+Response Code:  400 - Method: POST - URL: /api/auth/register
+
+
+    {"statusCode":400,"error":"A user has already been created with that email adderess","path":"/api/auth/register","method":"POST","timeStamp":"2021-11-18T15:06:54.009Z"}
+
+  
+    User: "Not signed in"
+
+
+      HttpException: A user has already been created with that email adderess
+    at Object.next (C:\Users\Jose\Desktop\chatApplication\chat-api\src\auth\services\auth.service.ts:39:17)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\tap.ts:136:31
+    at OperatorSubscriber._this._next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\OperatorSubscriber.ts:43:13)
+    at OperatorSubscriber.Subscriber.next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\Subscriber.ts:75:12)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\switchMap.ts:112:42
+    at OperatorSubscriber._this._next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\OperatorSubscriber.ts:43:13)
+    at OperatorSubscriber.Subscriber.next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\Subscriber.ts:75:12)
+    at Observable._subscribe (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\observable\innerFrom.ts:77:18)
+    at Observable._trySubscribe (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\Observable.ts:244:19)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\Observable.ts:234:18
+
+Response Code:  400 - Method: POST - URL: /api/auth/register
+
+
+    {"statusCode":400,"error":"A user has already been created with that email adderess","path":"/api/auth/register","method":"POST","timeStamp":"2021-11-18T15:06:54.079Z"}
+
+  
+    User: "Not signed in"
+
+
+      HttpException: A user has already been created with that email adderess
+    at Object.next (C:\Users\Jose\Desktop\chatApplication\chat-api\src\auth\services\auth.service.ts:39:17)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\tap.ts:136:31
+    at OperatorSubscriber._this._next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\OperatorSubscriber.ts:43:13)
+    at OperatorSubscriber.Subscriber.next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\Subscriber.ts:75:12)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\switchMap.ts:112:42
+    at OperatorSubscriber._this._next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\OperatorSubscriber.ts:43:13)
+    at OperatorSubscriber.Subscriber.next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\Subscriber.ts:75:12)
+    at Observable._subscribe (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\observable\innerFrom.ts:77:18)
+    at Observable._trySubscribe (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\Observable.ts:244:19)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\Observable.ts:234:18
+
+Response Code:  400 - Method: POST - URL: /api/auth/register
+
+
+    {"statusCode":400,"error":"A user has already been created with that email adderess","path":"/api/auth/register","method":"POST","timeStamp":"2021-11-18T15:07:41.069Z"}
+
+  
+    User: "Not signed in"
+
+
+      HttpException: A user has already been created with that email adderess
+    at Object.next (C:\Users\Jose\Desktop\chatApplication\chat-api\src\auth\services\auth.service.ts:39:17)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\tap.ts:136:31
+    at OperatorSubscriber._this._next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\OperatorSubscriber.ts:43:13)
+    at OperatorSubscriber.Subscriber.next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\Subscriber.ts:75:12)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\switchMap.ts:112:42
+    at OperatorSubscriber._this._next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\OperatorSubscriber.ts:43:13)
+    at OperatorSubscriber.Subscriber.next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\Subscriber.ts:75:12)
+    at Observable._subscribe (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\observable\innerFrom.ts:77:18)
+    at Observable._trySubscribe (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\Observable.ts:244:19)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\Observable.ts:234:18
+
+Response Code:  400 - Method: POST - URL: /api/auth/register
+
+
+    {"statusCode":400,"error":"A user has already been created with that email adderess","path":"/api/auth/register","method":"POST","timeStamp":"2021-11-18T15:07:41.153Z"}
+
+  
+    User: "Not signed in"
+
+
+      HttpException: A user has already been created with that email adderess
+    at Object.next (C:\Users\Jose\Desktop\chatApplication\chat-api\src\auth\services\auth.service.ts:39:17)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\tap.ts:136:31
+    at OperatorSubscriber._this._next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\OperatorSubscriber.ts:43:13)
+    at OperatorSubscriber.Subscriber.next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\Subscriber.ts:75:12)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\switchMap.ts:112:42
+    at OperatorSubscriber._this._next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\OperatorSubscriber.ts:43:13)
+    at OperatorSubscriber.Subscriber.next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\Subscriber.ts:75:12)
+    at Observable._subscribe (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\observable\innerFrom.ts:77:18)
+    at Observable._trySubscribe (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\Observable.ts:244:19)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\Observable.ts:234:18
+
+Response Code:  400 - Method: POST - URL: /api/auth/register
+
+
+    {"statusCode":400,"error":"A user has already been created with that email adderess","path":"/api/auth/register","method":"POST","timeStamp":"2021-11-18T15:08:29.420Z"}
+
+  
+    User: "Not signed in"
+
+
+      HttpException: A user has already been created with that email adderess
+    at Object.next (C:\Users\Jose\Desktop\chatApplication\chat-api\src\auth\services\auth.service.ts:39:17)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\tap.ts:136:31
+    at OperatorSubscriber._this._next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\OperatorSubscriber.ts:43:13)
+    at OperatorSubscriber.Subscriber.next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\Subscriber.ts:75:12)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\switchMap.ts:112:42
+    at OperatorSubscriber._this._next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\OperatorSubscriber.ts:43:13)
+    at OperatorSubscriber.Subscriber.next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\Subscriber.ts:75:12)
+    at Observable._subscribe (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\observable\innerFrom.ts:77:18)
+    at Observable._trySubscribe (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\Observable.ts:244:19)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\Observable.ts:234:18
+
+Response Code:  400 - Method: POST - URL: /api/auth/register
+
+
+    {"statusCode":400,"error":"A user has already been created with that email adderess","path":"/api/auth/register","method":"POST","timeStamp":"2021-11-18T15:15:33.733Z"}
+
+  
+    User: "Not signed in"
+
+
+      HttpException: A user has already been created with that email adderess
+    at Object.next (C:\Users\Jose\Desktop\chatApplication\chat-api\src\auth\services\auth.service.ts:39:17)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\tap.ts:136:31
+    at OperatorSubscriber._this._next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\OperatorSubscriber.ts:43:13)
+    at OperatorSubscriber.Subscriber.next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\Subscriber.ts:75:12)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\switchMap.ts:112:42
+    at OperatorSubscriber._this._next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\OperatorSubscriber.ts:43:13)
+    at OperatorSubscriber.Subscriber.next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\Subscriber.ts:75:12)
+    at Observable._subscribe (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\observable\innerFrom.ts:77:18)
+    at Observable._trySubscribe (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\Observable.ts:244:19)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\Observable.ts:234:18
+
+Response Code:  404 - Method: POST - URL: /api/authlogin
+
+
+    {"statusCode":404,"error":"Not Found","path":"/api/authlogin","method":"POST","timeStamp":"2021-11-18T15:15:33.776Z"}
+
+  
+    User: "Not signed in"
+
+
+      NotFoundException: Cannot POST /api/authlogin
+    at callback (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\@nestjs\core\router\routes-resolver.js:77:19)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\@nestjs\core\router\router-proxy.js:9:23
+    at Layer.handle [as handle_request] (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\express\lib\router\index.js:275:10)
+    at urlencodedParser (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\body-parser\lib\types\urlencoded.js:82:7)
+    at Layer.handle [as handle_request] (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\express\lib\router\index.js:317:13)
+
+Response Code:  400 - Method: POST - URL: /api/auth/register
+
+
+    {"statusCode":400,"error":"A user has already been created with that email adderess","path":"/api/auth/register","method":"POST","timeStamp":"2021-11-18T15:16:34.138Z"}
+
+  
+    User: "Not signed in"
+
+
+      HttpException: A user has already been created with that email adderess
+    at Object.next (C:\Users\Jose\Desktop\chatApplication\chat-api\src\auth\services\auth.service.ts:39:17)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\tap.ts:136:31
+    at OperatorSubscriber._this._next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\OperatorSubscriber.ts:43:13)
+    at OperatorSubscriber.Subscriber.next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\Subscriber.ts:75:12)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\switchMap.ts:112:42
+    at OperatorSubscriber._this._next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\OperatorSubscriber.ts:43:13)
+    at OperatorSubscriber.Subscriber.next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\Subscriber.ts:75:12)
+    at Observable._subscribe (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\observable\innerFrom.ts:77:18)
+    at Observable._trySubscribe (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\Observable.ts:244:19)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\Observable.ts:234:18
+
+Response Code:  404 - Method: POST - URL: /api/auth/login
+
+
+    {"statusCode":404,"error":"Invalid Credentials","path":"/api/auth/login","method":"POST","timeStamp":"2021-11-18T15:16:34.148Z"}
+
+  
+    User: "Not signed in"
+
+
+      HttpException: Http Exception
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\src\auth\services\auth.service.ts:77:17
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\switchMap.ts:106:21
+    at OperatorSubscriber._this._next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\OperatorSubscriber.ts:43:13)
+    at OperatorSubscriber.Subscriber.next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\Subscriber.ts:75:12)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\observable\innerFrom.ts:89:24
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+
+Response Code:  400 - Method: POST - URL: /api/auth/register
+
+
+    {"statusCode":400,"error":"A user has already been created with that email adderess","path":"/api/auth/register","method":"POST","timeStamp":"2021-11-18T15:17:21.828Z"}
+
+  
+    User: "Not signed in"
+
+
+      HttpException: A user has already been created with that email adderess
+    at Object.next (C:\Users\Jose\Desktop\chatApplication\chat-api\src\auth\services\auth.service.ts:39:17)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\tap.ts:136:31
+    at OperatorSubscriber._this._next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\OperatorSubscriber.ts:43:13)
+    at OperatorSubscriber.Subscriber.next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\Subscriber.ts:75:12)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\switchMap.ts:112:42
+    at OperatorSubscriber._this._next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\OperatorSubscriber.ts:43:13)
+    at OperatorSubscriber.Subscriber.next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\Subscriber.ts:75:12)
+    at Observable._subscribe (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\observable\innerFrom.ts:77:18)
+    at Observable._trySubscribe (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\Observable.ts:244:19)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\Observable.ts:234:18
+
+Response Code:  400 - Method: POST - URL: /api/auth/register
+
+
+    {"statusCode":400,"error":"A user has already been created with that email adderess","path":"/api/auth/register","method":"POST","timeStamp":"2021-11-18T15:17:21.990Z"}
+
+  
+    User: "Not signed in"
+
+
+      HttpException: A user has already been created with that email adderess
+    at Object.next (C:\Users\Jose\Desktop\chatApplication\chat-api\src\auth\services\auth.service.ts:39:17)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\tap.ts:136:31
+    at OperatorSubscriber._this._next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\OperatorSubscriber.ts:43:13)
+    at OperatorSubscriber.Subscriber.next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\Subscriber.ts:75:12)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\switchMap.ts:112:42
+    at OperatorSubscriber._this._next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\OperatorSubscriber.ts:43:13)
+    at OperatorSubscriber.Subscriber.next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\Subscriber.ts:75:12)
+    at Observable._subscribe (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\observable\innerFrom.ts:77:18)
+    at Observable._trySubscribe (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\Observable.ts:244:19)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\Observable.ts:234:18
+
+Response Code:  403 - Method: POST - URL: /api/auth/login
+
+
+    {"statusCode":403,"error":"Invalid Credentials","path":"/api/auth/login","method":"POST","timeStamp":"2021-11-18T15:17:21.998Z"}
+
+  
+    User: "Not signed in"
+
+
+      HttpException: Http Exception
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\src\auth\services\auth.service.ts:77:17
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\switchMap.ts:106:21
+    at OperatorSubscriber._this._next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\OperatorSubscriber.ts:43:13)
+    at OperatorSubscriber.Subscriber.next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\Subscriber.ts:75:12)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\observable\innerFrom.ts:89:24
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+
+Response Code:  400 - Method: POST - URL: /api/auth/register
+
+
+    {"statusCode":400,"error":"A user has already been created with that email adderess","path":"/api/auth/register","method":"POST","timeStamp":"2021-11-18T15:22:17.967Z"}
+
+  
+    User: "Not signed in"
+
+
+      HttpException: A user has already been created with that email adderess
+    at Object.next (C:\Users\Jose\Desktop\chatApplication\chat-api\src\auth\services\auth.service.ts:39:17)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\tap.ts:136:31
+    at OperatorSubscriber._this._next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\OperatorSubscriber.ts:43:13)
+    at OperatorSubscriber.Subscriber.next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\Subscriber.ts:75:12)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\switchMap.ts:112:42
+    at OperatorSubscriber._this._next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\OperatorSubscriber.ts:43:13)
+    at OperatorSubscriber.Subscriber.next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\Subscriber.ts:75:12)
+    at Observable._subscribe (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\observable\innerFrom.ts:77:18)
+    at Observable._trySubscribe (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\Observable.ts:244:19)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\Observable.ts:234:18
+
+Response Code:  403 - Method: POST - URL: /api/auth/login
+
+
+    {"statusCode":403,"error":"Invalid Credentials","path":"/api/auth/login","method":"POST","timeStamp":"2021-11-18T15:22:17.980Z"}
+
+  
+    User: "Not signed in"
+
+
+      HttpException: Http Exception
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\src\auth\services\auth.service.ts:77:17
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\switchMap.ts:106:21
+    at OperatorSubscriber._this._next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\OperatorSubscriber.ts:43:13)
+    at OperatorSubscriber.Subscriber.next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\Subscriber.ts:75:12)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\observable\innerFrom.ts:89:24
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+
+Response Code:  400 - Method: POST - URL: /api/auth/register
+
+
+    {"statusCode":400,"error":"A user has already been created with that email adderess","path":"/api/auth/register","method":"POST","timeStamp":"2021-11-18T15:28:45.155Z"}
+
+  
+    User: "Not signed in"
+
+
+      HttpException: A user has already been created with that email adderess
+    at Object.next (C:\Users\Jose\Desktop\chatApplication\chat-api\src\auth\services\auth.service.ts:39:17)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\tap.ts:136:31
+    at OperatorSubscriber._this._next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\OperatorSubscriber.ts:43:13)
+    at OperatorSubscriber.Subscriber.next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\Subscriber.ts:75:12)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\switchMap.ts:112:42
+    at OperatorSubscriber._this._next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\OperatorSubscriber.ts:43:13)
+    at OperatorSubscriber.Subscriber.next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\Subscriber.ts:75:12)
+    at Observable._subscribe (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\observable\innerFrom.ts:77:18)
+    at Observable._trySubscribe (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\Observable.ts:244:19)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\Observable.ts:234:18
+
+Response Code:  403 - Method: POST - URL: /api/auth/login
+
+
+    {"statusCode":403,"error":"Invalid Credentials","path":"/api/auth/login","method":"POST","timeStamp":"2021-11-18T15:28:45.167Z"}
+
+  
+    User: "Not signed in"
+
+
+      HttpException: Http Exception
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\src\auth\services\auth.service.ts:77:17
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\switchMap.ts:106:21
+    at OperatorSubscriber._this._next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\OperatorSubscriber.ts:43:13)
+    at OperatorSubscriber.Subscriber.next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\Subscriber.ts:75:12)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\observable\innerFrom.ts:89:24
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+
+Response Code:  400 - Method: POST - URL: /api/auth/register
+
+
+    {"statusCode":400,"error":"A user has already been created with that email adderess","path":"/api/auth/register","method":"POST","timeStamp":"2021-11-18T15:30:34.066Z"}
+
+  
+    User: "Not signed in"
+
+
+      HttpException: A user has already been created with that email adderess
+    at Object.next (C:\Users\Jose\Desktop\chatApplication\chat-api\src\auth\services\auth.service.ts:39:17)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\tap.ts:136:31
+    at OperatorSubscriber._this._next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\OperatorSubscriber.ts:43:13)
+    at OperatorSubscriber.Subscriber.next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\Subscriber.ts:75:12)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\switchMap.ts:112:42
+    at OperatorSubscriber._this._next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\OperatorSubscriber.ts:43:13)
+    at OperatorSubscriber.Subscriber.next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\Subscriber.ts:75:12)
+    at Observable._subscribe (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\observable\innerFrom.ts:77:18)
+    at Observable._trySubscribe (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\Observable.ts:244:19)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\Observable.ts:234:18
+
+Response Code:  403 - Method: POST - URL: /api/auth/login
+
+
+    {"statusCode":403,"error":"Invalid Credentials","path":"/api/auth/login","method":"POST","timeStamp":"2021-11-18T15:30:34.121Z"}
+
+  
+    User: "Not signed in"
+
+
+      HttpException: Http Exception
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\src\auth\services\auth.service.ts:77:17
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\switchMap.ts:106:21
+    at OperatorSubscriber._this._next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\OperatorSubscriber.ts:43:13)
+    at OperatorSubscriber.Subscriber.next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\Subscriber.ts:75:12)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\observable\innerFrom.ts:89:24
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+
+Response Code:  400 - Method: POST - URL: /api/auth/register
+
+
+    {"statusCode":400,"error":"A user has already been created with that email adderess","path":"/api/auth/register","method":"POST","timeStamp":"2021-11-23T15:48:48.252Z"}
+
+  
+    User: "Not signed in"
+
+
+      HttpException: A user has already been created with that email adderess
+    at Object.next (C:\Users\Jose\Desktop\chatApplication\chat-api\src\auth\services\auth.service.ts:39:17)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\tap.ts:136:31
+    at OperatorSubscriber._this._next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\OperatorSubscriber.ts:43:13)
+    at OperatorSubscriber.Subscriber.next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\Subscriber.ts:75:12)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\switchMap.ts:112:42
+    at OperatorSubscriber._this._next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\OperatorSubscriber.ts:43:13)
+    at OperatorSubscriber.Subscriber.next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\Subscriber.ts:75:12)
+    at Observable._subscribe (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\observable\innerFrom.ts:77:18)
+    at Observable._trySubscribe (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\Observable.ts:244:19)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\Observable.ts:234:18
+
+Response Code:  400 - Method: POST - URL: /api/auth/register
+
+
+    {"statusCode":400,"error":"A user has already been created with that email adderess","path":"/api/auth/register","method":"POST","timeStamp":"2021-11-23T15:49:23.168Z"}
+
+  
+    User: "Not signed in"
+
+
+      HttpException: A user has already been created with that email adderess
+    at Object.next (C:\Users\Jose\Desktop\chatApplication\chat-api\src\auth\services\auth.service.ts:39:17)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\tap.ts:136:31
+    at OperatorSubscriber._this._next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\OperatorSubscriber.ts:43:13)
+    at OperatorSubscriber.Subscriber.next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\Subscriber.ts:75:12)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\switchMap.ts:112:42
+    at OperatorSubscriber._this._next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\OperatorSubscriber.ts:43:13)
+    at OperatorSubscriber.Subscriber.next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\Subscriber.ts:75:12)
+    at Observable._subscribe (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\observable\innerFrom.ts:77:18)
+    at Observable._trySubscribe (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\Observable.ts:244:19)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\Observable.ts:234:18
+
+Response Code:  400 - Method: POST - URL: /api/auth/register
+
+
+    {"statusCode":400,"error":"A user has already been created with that email adderess","path":"/api/auth/register","method":"POST","timeStamp":"2021-11-23T15:51:35.390Z"}
+
+  
+    User: "Not signed in"
+
+
+      HttpException: A user has already been created with that email adderess
+    at Object.next (C:\Users\Jose\Desktop\chatApplication\chat-api\src\auth\services\auth.service.ts:39:17)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\tap.ts:136:31
+    at OperatorSubscriber._this._next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\OperatorSubscriber.ts:43:13)
+    at OperatorSubscriber.Subscriber.next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\Subscriber.ts:75:12)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\switchMap.ts:112:42
+    at OperatorSubscriber._this._next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\OperatorSubscriber.ts:43:13)
+    at OperatorSubscriber.Subscriber.next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\Subscriber.ts:75:12)
+    at Observable._subscribe (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\observable\innerFrom.ts:77:18)
+    at Observable._trySubscribe (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\Observable.ts:244:19)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\Observable.ts:234:18
+
+Response Code:  400 - Method: POST - URL: /api/auth/register
+
+
+    {"statusCode":400,"error":"A user has already been created with that email adderess","path":"/api/auth/register","method":"POST","timeStamp":"2021-11-23T15:57:18.743Z"}
+
+  
+    User: "Not signed in"
+
+
+      HttpException: A user has already been created with that email adderess
+    at Object.next (C:\Users\Jose\Desktop\chatApplication\chat-api\src\auth\services\auth.service.ts:39:17)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\tap.ts:136:31
+    at OperatorSubscriber._this._next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\OperatorSubscriber.ts:43:13)
+    at OperatorSubscriber.Subscriber.next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\Subscriber.ts:75:12)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\switchMap.ts:112:42
+    at OperatorSubscriber._this._next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\OperatorSubscriber.ts:43:13)
+    at OperatorSubscriber.Subscriber.next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\Subscriber.ts:75:12)
+    at Observable._subscribe (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\observable\innerFrom.ts:77:18)
+    at Observable._trySubscribe (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\Observable.ts:244:19)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\Observable.ts:234:18
+
+Response Code:  400 - Method: POST - URL: /api/auth/register
+
+
+    {"statusCode":400,"error":"A user has already been created with that email adderess","path":"/api/auth/register","method":"POST","timeStamp":"2021-11-23T15:58:15.673Z"}
+
+  
+    User: "Not signed in"
+
+
+      HttpException: A user has already been created with that email adderess
+    at Object.next (C:\Users\Jose\Desktop\chatApplication\chat-api\src\auth\services\auth.service.ts:39:17)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\tap.ts:136:31
+    at OperatorSubscriber._this._next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\OperatorSubscriber.ts:43:13)
+    at OperatorSubscriber.Subscriber.next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\Subscriber.ts:75:12)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\switchMap.ts:112:42
+    at OperatorSubscriber._this._next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\OperatorSubscriber.ts:43:13)
+    at OperatorSubscriber.Subscriber.next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\Subscriber.ts:75:12)
+    at Observable._subscribe (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\observable\innerFrom.ts:77:18)
+    at Observable._trySubscribe (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\Observable.ts:244:19)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\Observable.ts:234:18
+
+Response Code:  400 - Method: POST - URL: /api/auth/register
+
+
+    {"statusCode":400,"error":"A user has already been created with that email adderess","path":"/api/auth/register","method":"POST","timeStamp":"2021-11-23T15:58:36.565Z"}
+
+  
+    User: "Not signed in"
+
+
+      HttpException: A user has already been created with that email adderess
+    at Object.next (C:\Users\Jose\Desktop\chatApplication\chat-api\src\auth\services\auth.service.ts:39:17)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\tap.ts:136:31
+    at OperatorSubscriber._this._next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\OperatorSubscriber.ts:43:13)
+    at OperatorSubscriber.Subscriber.next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\Subscriber.ts:75:12)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\switchMap.ts:112:42
+    at OperatorSubscriber._this._next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\OperatorSubscriber.ts:43:13)
+    at OperatorSubscriber.Subscriber.next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\Subscriber.ts:75:12)
+    at Observable._subscribe (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\observable\innerFrom.ts:77:18)
+    at Observable._trySubscribe (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\Observable.ts:244:19)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\Observable.ts:234:18
+
+Response Code:  400 - Method: POST - URL: /api/auth/register
+
+
+    {"statusCode":400,"error":"A user has already been created with that email adderess","path":"/api/auth/register","method":"POST","timeStamp":"2021-11-23T15:58:51.792Z"}
+
+  
+    User: "Not signed in"
+
+
+      HttpException: A user has already been created with that email adderess
+    at Object.next (C:\Users\Jose\Desktop\chatApplication\chat-api\src\auth\services\auth.service.ts:39:17)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\tap.ts:136:31
+    at OperatorSubscriber._this._next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\OperatorSubscriber.ts:43:13)
+    at OperatorSubscriber.Subscriber.next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\Subscriber.ts:75:12)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\switchMap.ts:112:42
+    at OperatorSubscriber._this._next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\OperatorSubscriber.ts:43:13)
+    at OperatorSubscriber.Subscriber.next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\Subscriber.ts:75:12)
+    at Observable._subscribe (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\observable\innerFrom.ts:77:18)
+    at Observable._trySubscribe (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\Observable.ts:244:19)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\Observable.ts:234:18
+
+Response Code:  400 - Method: POST - URL: /api/auth/register
+
+
+    {"statusCode":400,"error":"A user has already been created with that email adderess","path":"/api/auth/register","method":"POST","timeStamp":"2021-11-23T15:58:53.889Z"}
+
+  
+    User: "Not signed in"
+
+
+      HttpException: A user has already been created with that email adderess
+    at Object.next (C:\Users\Jose\Desktop\chatApplication\chat-api\src\auth\services\auth.service.ts:39:17)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\tap.ts:136:31
+    at OperatorSubscriber._this._next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\OperatorSubscriber.ts:43:13)
+    at OperatorSubscriber.Subscriber.next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\Subscriber.ts:75:12)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\switchMap.ts:112:42
+    at OperatorSubscriber._this._next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\OperatorSubscriber.ts:43:13)
+    at OperatorSubscriber.Subscriber.next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\Subscriber.ts:75:12)
+    at Observable._subscribe (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\observable\innerFrom.ts:77:18)
+    at Observable._trySubscribe (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\Observable.ts:244:19)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\Observable.ts:234:18
+
+Response Code:  400 - Method: POST - URL: /api/auth/register
+
+
+    {"statusCode":400,"error":"A user has already been created with that email adderess","path":"/api/auth/register","method":"POST","timeStamp":"2021-11-23T15:59:28.297Z"}
+
+  
+    User: "Not signed in"
+
+
+      HttpException: A user has already been created with that email adderess
+    at Object.next (C:\Users\Jose\Desktop\chatApplication\chat-api\src\auth\services\auth.service.ts:39:17)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\tap.ts:136:31
+    at OperatorSubscriber._this._next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\OperatorSubscriber.ts:43:13)
+    at OperatorSubscriber.Subscriber.next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\Subscriber.ts:75:12)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\switchMap.ts:112:42
+    at OperatorSubscriber._this._next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\OperatorSubscriber.ts:43:13)
+    at OperatorSubscriber.Subscriber.next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\Subscriber.ts:75:12)
+    at Observable._subscribe (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\observable\innerFrom.ts:77:18)
+    at Observable._trySubscribe (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\Observable.ts:244:19)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\Observable.ts:234:18
+
+Response Code:  400 - Method: POST - URL: /api/auth/register
+
+
+    {"statusCode":400,"error":"A user has already been created with that email adderess","path":"/api/auth/register","method":"POST","timeStamp":"2021-11-23T15:59:30.330Z"}
+
+  
+    User: "Not signed in"
+
+
+      HttpException: A user has already been created with that email adderess
+    at Object.next (C:\Users\Jose\Desktop\chatApplication\chat-api\src\auth\services\auth.service.ts:39:17)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\tap.ts:136:31
+    at OperatorSubscriber._this._next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\OperatorSubscriber.ts:43:13)
+    at OperatorSubscriber.Subscriber.next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\Subscriber.ts:75:12)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\switchMap.ts:112:42
+    at OperatorSubscriber._this._next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\OperatorSubscriber.ts:43:13)
+    at OperatorSubscriber.Subscriber.next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\Subscriber.ts:75:12)
+    at Observable._subscribe (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\observable\innerFrom.ts:77:18)
+    at Observable._trySubscribe (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\Observable.ts:244:19)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\Observable.ts:234:18
+
+Response Code:  400 - Method: POST - URL: /api/auth/register
+
+
+    {"statusCode":400,"error":"A user has already been created with that email adderess","path":"/api/auth/register","method":"POST","timeStamp":"2021-11-23T15:59:44.385Z"}
+
+  
+    User: "Not signed in"
+
+
+      HttpException: A user has already been created with that email adderess
+    at Object.next (C:\Users\Jose\Desktop\chatApplication\chat-api\src\auth\services\auth.service.ts:39:17)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\tap.ts:136:31
+    at OperatorSubscriber._this._next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\OperatorSubscriber.ts:43:13)
+    at OperatorSubscriber.Subscriber.next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\Subscriber.ts:75:12)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\switchMap.ts:112:42
+    at OperatorSubscriber._this._next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\OperatorSubscriber.ts:43:13)
+    at OperatorSubscriber.Subscriber.next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\Subscriber.ts:75:12)
+    at Observable._subscribe (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\observable\innerFrom.ts:77:18)
+    at Observable._trySubscribe (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\Observable.ts:244:19)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\Observable.ts:234:18
+
+Response Code:  400 - Method: POST - URL: /api/auth/register
+
+
+    {"statusCode":400,"error":"A user has already been created with that email adderess","path":"/api/auth/register","method":"POST","timeStamp":"2021-11-23T16:06:33.871Z"}
+
+  
+    User: "Not signed in"
+
+
+      HttpException: A user has already been created with that email adderess
+    at Object.next (C:\Users\Jose\Desktop\chatApplication\chat-api\src\auth\services\auth.service.ts:39:17)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\tap.ts:136:31
+    at OperatorSubscriber._this._next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\OperatorSubscriber.ts:43:13)
+    at OperatorSubscriber.Subscriber.next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\Subscriber.ts:75:12)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\switchMap.ts:112:42
+    at OperatorSubscriber._this._next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\OperatorSubscriber.ts:43:13)
+    at OperatorSubscriber.Subscriber.next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\Subscriber.ts:75:12)
+    at Observable._subscribe (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\observable\innerFrom.ts:77:18)
+    at Observable._trySubscribe (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\Observable.ts:244:19)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\Observable.ts:234:18
+
+Response Code:  400 - Method: POST - URL: /api/auth/register
+
+
+    {"statusCode":400,"error":"A user has already been created with that email adderess","path":"/api/auth/register","method":"POST","timeStamp":"2021-11-23T16:06:37.892Z"}
+
+  
+    User: "Not signed in"
+
+
+      HttpException: A user has already been created with that email adderess
+    at Object.next (C:\Users\Jose\Desktop\chatApplication\chat-api\src\auth\services\auth.service.ts:39:17)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\tap.ts:136:31
+    at OperatorSubscriber._this._next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\OperatorSubscriber.ts:43:13)
+    at OperatorSubscriber.Subscriber.next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\Subscriber.ts:75:12)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\switchMap.ts:112:42
+    at OperatorSubscriber._this._next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\OperatorSubscriber.ts:43:13)
+    at OperatorSubscriber.Subscriber.next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\Subscriber.ts:75:12)
+    at Observable._subscribe (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\observable\innerFrom.ts:77:18)
+    at Observable._trySubscribe (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\Observable.ts:244:19)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\Observable.ts:234:18
+
+Response Code:  500 - Method: POST - URL: /api/auth/login
+
+
+    {"statusCode":500,"error":"Critical internal server error occurred!","path":"/api/auth/login","method":"POST","timeStamp":"2021-11-24T13:48:49.679Z"}
+
+  
+    User: "Not signed in"
+
+
+      Critical internal server error occurred!
+
+Response Code:  500 - Method: POST - URL: /api/auth/login
+
+
+    {"statusCode":500,"error":"Critical internal server error occurred!","path":"/api/auth/login","method":"POST","timeStamp":"2021-11-24T13:48:52.077Z"}
+
+  
+    User: "Not signed in"
+
+
+      Critical internal server error occurred!
+
+Response Code:  403 - Method: POST - URL: /api/auth/login
+
+
+    {"statusCode":403,"error":"Invalid Credentials","path":"/api/auth/login","method":"POST","timeStamp":"2021-11-24T13:51:12.357Z"}
+
+  
+    User: "Not signed in"
+
+
+      HttpException: Http Exception
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\src\auth\services\auth.service.ts:77:17
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\switchMap.ts:106:21
+    at OperatorSubscriber._this._next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\OperatorSubscriber.ts:43:13)
+    at OperatorSubscriber.Subscriber.next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\Subscriber.ts:75:12)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\observable\innerFrom.ts:89:24
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+
+Response Code:  403 - Method: POST - URL: /api/auth/login
+
+
+    {"statusCode":403,"error":"Invalid Credentials","path":"/api/auth/login","method":"POST","timeStamp":"2021-11-24T13:51:14.946Z"}
+
+  
+    User: "Not signed in"
+
+
+      HttpException: Http Exception
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\src\auth\services\auth.service.ts:77:17
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\switchMap.ts:106:21
+    at OperatorSubscriber._this._next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\OperatorSubscriber.ts:43:13)
+    at OperatorSubscriber.Subscriber.next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\Subscriber.ts:75:12)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\observable\innerFrom.ts:89:24
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+
+Response Code:  401 - Method: GET - URL: /api/user/image-name
+
+
+    {"statusCode":401,"error":"Unauthorized","path":"/api/user/image-name","method":"GET","timeStamp":"2021-11-24T14:23:53.714Z"}
+
+  
+    User: "Not signed in"
+
+
+      UnauthorizedException: Unauthorized
+    at JwtGuard.handleRequest (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\@nestjs\passport\dist\auth.guard.js:68:30)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\@nestjs\passport\dist\auth.guard.js:49:128
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\@nestjs\passport\dist\auth.guard.js:86:24
+    at allFailed (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\passport\lib\middleware\authenticate.js:101:18)
+    at attempt (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\passport\lib\middleware\authenticate.js:174:28)
+    at JwtStrategy.strategy.fail (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\passport\lib\middleware\authenticate.js:296:9)
+    at JwtStrategy.authenticate (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\passport-jwt\lib\strategy.js:96:21)
+    at attempt (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\passport\lib\middleware\authenticate.js:360:16)
+    at authenticate (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\passport\lib\middleware\authenticate.js:361:7)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\@nestjs\passport\dist\auth.guard.js:91:3
+
+Response Code:  401 - Method: GET - URL: /api/feed?take=5&skip=0
+
+
+    {"statusCode":401,"error":"Unauthorized","path":"/api/feed?take=5&skip=0","method":"GET","timeStamp":"2021-11-24T14:23:53.719Z"}
+
+  
+    User: "Not signed in"
+
+
+      UnauthorizedException: Unauthorized
+    at JwtGuard.handleRequest (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\@nestjs\passport\dist\auth.guard.js:68:30)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\@nestjs\passport\dist\auth.guard.js:49:128
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\@nestjs\passport\dist\auth.guard.js:86:24
+    at allFailed (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\passport\lib\middleware\authenticate.js:101:18)
+    at attempt (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\passport\lib\middleware\authenticate.js:174:28)
+    at JwtStrategy.strategy.fail (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\passport\lib\middleware\authenticate.js:296:9)
+    at JwtStrategy.authenticate (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\passport-jwt\lib\strategy.js:96:21)
+    at attempt (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\passport\lib\middleware\authenticate.js:360:16)
+    at authenticate (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\passport\lib\middleware\authenticate.js:361:7)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\@nestjs\passport\dist\auth.guard.js:91:3
+
+Response Code:  500 - Method: GET - URL: /api/feed/image/blank-profile-picture.png
+
+
+    {"statusCode":500,"error":"Critical internal server error occurred!","path":"/api/feed/image/blank-profile-picture.png","method":"GET","timeStamp":"2021-11-25T15:59:31.497Z"}
+
+  
+    User: "Not signed in"
+
+
+      Critical internal server error occurred!
+
+Response Code:  500 - Method: GET - URL: /api/feed/image/blank-profile-picture.png
+
+
+    {"statusCode":500,"error":"Critical internal server error occurred!","path":"/api/feed/image/blank-profile-picture.png","method":"GET","timeStamp":"2021-12-14T12:59:49.293Z"}
+
+  
+    User: "Not signed in"
+
+
+      Critical internal server error occurred!
+
+Response Code:  500 - Method: GET - URL: /api/feed/image/blank-profile-picture.png
+
+
+    {"statusCode":500,"error":"Critical internal server error occurred!","path":"/api/feed/image/blank-profile-picture.png","method":"GET","timeStamp":"2021-12-14T12:59:58.708Z"}
+
+  
+    User: "Not signed in"
+
+
+      Critical internal server error occurred!
+
+Response Code:  404 - Method: GET - URL: /chat-api/images/default-profile-pic.png
+
+
+    {"statusCode":404,"error":"Not Found","path":"/chat-api/images/default-profile-pic.png","method":"GET","timeStamp":"2021-12-14T13:03:27.095Z"}
+
+  
+    User: "Not signed in"
+
+
+      NotFoundException: Cannot GET /chat-api/images/default-profile-pic.png
+    at callback (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\@nestjs\core\router\routes-resolver.js:77:19)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\@nestjs\core\router\router-proxy.js:9:23
+    at Layer.handle [as handle_request] (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\express\lib\router\index.js:275:10)
+    at urlencodedParser (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\body-parser\lib\types\urlencoded.js:91:7)
+    at Layer.handle [as handle_request] (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\express\lib\router\index.js:317:13)
+
+Response Code:  403 - Method: POST - URL: /api/auth/login
+
+
+    {"statusCode":403,"error":"Invalid Credentials","path":"/api/auth/login","method":"POST","timeStamp":"2021-12-16T14:06:58.663Z"}
+
+  
+    User: "Not signed in"
+
+
+      HttpException: Http Exception
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\src\auth\services\auth.service.ts:77:17
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\switchMap.ts:106:21
+    at OperatorSubscriber._this._next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\OperatorSubscriber.ts:43:13)
+    at OperatorSubscriber.Subscriber.next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\Subscriber.ts:75:12)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\observable\innerFrom.ts:89:24
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+
+Response Code:  500 - Method: GET - URL: /api/feed/image/blank-profile-picture.png
+
+
+    {"statusCode":500,"error":"Critical internal server error occurred!","path":"/api/feed/image/blank-profile-picture.png","method":"GET","timeStamp":"2021-12-22T17:06:56.404Z"}
+
+  
+    User: "Not signed in"
+
+
+      Critical internal server error occurred!
+
+Response Code:  404 - Method: GET - URL: /favicon.ico
+
+
+    {"statusCode":404,"error":"Not Found","path":"/favicon.ico","method":"GET","timeStamp":"2021-12-22T17:06:57.118Z"}
+
+  
+    User: "Not signed in"
+
+
+      NotFoundException: Cannot GET /favicon.ico
+    at callback (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\@nestjs\core\router\routes-resolver.js:77:19)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\@nestjs\core\router\router-proxy.js:9:23
+    at Layer.handle [as handle_request] (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\express\lib\router\index.js:275:10)
+    at urlencodedParser (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\body-parser\lib\types\urlencoded.js:91:7)
+    at Layer.handle [as handle_request] (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\express\lib\router\index.js:317:13)
+
+Response Code:  404 - Method: GET - URL: /api/feed/images/80e48faf-ffe7-4441-b793-58f033514047.jpg
+
+
+    {"statusCode":404,"error":"Not Found","path":"/api/feed/images/80e48faf-ffe7-4441-b793-58f033514047.jpg","method":"GET","timeStamp":"2021-12-22T17:26:23.427Z"}
+
+  
+    User: "Not signed in"
+
+
+      NotFoundException: Cannot GET /api/feed/images/80e48faf-ffe7-4441-b793-58f033514047.jpg
+    at callback (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\@nestjs\core\router\routes-resolver.js:77:19)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\@nestjs\core\router\router-proxy.js:9:23
+    at Layer.handle [as handle_request] (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\express\lib\router\index.js:275:10)
+    at urlencodedParser (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\body-parser\lib\types\urlencoded.js:91:7)
+    at Layer.handle [as handle_request] (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\express\lib\router\index.js:317:13)
+
+Response Code:  404 - Method: GET - URL: /api/feed/images/91338a2e-fb20-4a17-a930-0720d6b36876.jpg
+
+
+    {"statusCode":404,"error":"Not Found","path":"/api/feed/images/91338a2e-fb20-4a17-a930-0720d6b36876.jpg","method":"GET","timeStamp":"2021-12-22T17:26:23.429Z"}
+
+  
+    User: "Not signed in"
+
+
+      NotFoundException: Cannot GET /api/feed/images/91338a2e-fb20-4a17-a930-0720d6b36876.jpg
+    at callback (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\@nestjs\core\router\routes-resolver.js:77:19)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\@nestjs\core\router\router-proxy.js:9:23
+    at Layer.handle [as handle_request] (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\express\lib\router\index.js:275:10)
+    at urlencodedParser (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\body-parser\lib\types\urlencoded.js:91:7)
+    at Layer.handle [as handle_request] (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\express\lib\router\index.js:317:13)
+
+Response Code:  404 - Method: GET - URL: /api/feed/images/91338a2e-fb20-4a17-a930-0720d6b36876.jpg
+
+
+    {"statusCode":404,"error":"Not Found","path":"/api/feed/images/91338a2e-fb20-4a17-a930-0720d6b36876.jpg","method":"GET","timeStamp":"2021-12-22T17:27:24.613Z"}
+
+  
+    User: "Not signed in"
+
+
+      NotFoundException: Cannot GET /api/feed/images/91338a2e-fb20-4a17-a930-0720d6b36876.jpg
+    at callback (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\@nestjs\core\router\routes-resolver.js:77:19)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\@nestjs\core\router\router-proxy.js:9:23
+    at Layer.handle [as handle_request] (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\express\lib\router\index.js:275:10)
+    at urlencodedParser (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\body-parser\lib\types\urlencoded.js:91:7)
+    at Layer.handle [as handle_request] (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\express\lib\router\index.js:317:13)
+
+Response Code:  404 - Method: GET - URL: /api/feed/images/80e48faf-ffe7-4441-b793-58f033514047.jpg
+
+
+    {"statusCode":404,"error":"Not Found","path":"/api/feed/images/80e48faf-ffe7-4441-b793-58f033514047.jpg","method":"GET","timeStamp":"2021-12-22T17:27:24.616Z"}
+
+  
+    User: "Not signed in"
+
+
+      NotFoundException: Cannot GET /api/feed/images/80e48faf-ffe7-4441-b793-58f033514047.jpg
+    at callback (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\@nestjs\core\router\routes-resolver.js:77:19)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\@nestjs\core\router\router-proxy.js:9:23
+    at Layer.handle [as handle_request] (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\express\lib\router\index.js:275:10)
+    at urlencodedParser (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\body-parser\lib\types\urlencoded.js:91:7)
+    at Layer.handle [as handle_request] (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\express\lib\router\index.js:317:13)
+
+Response Code:  404 - Method: GET - URL: /api/feed/images/80e48faf-ffe7-4441-b793-58f033514047.jpg
+
+
+    {"statusCode":404,"error":"Not Found","path":"/api/feed/images/80e48faf-ffe7-4441-b793-58f033514047.jpg","method":"GET","timeStamp":"2021-12-22T17:28:03.178Z"}
+
+  
+    User: "Not signed in"
+
+
+      NotFoundException: Cannot GET /api/feed/images/80e48faf-ffe7-4441-b793-58f033514047.jpg
+    at callback (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\@nestjs\core\router\routes-resolver.js:77:19)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\@nestjs\core\router\router-proxy.js:9:23
+    at Layer.handle [as handle_request] (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\express\lib\router\index.js:275:10)
+    at urlencodedParser (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\body-parser\lib\types\urlencoded.js:91:7)
+    at Layer.handle [as handle_request] (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\express\lib\router\index.js:317:13)
+
+Response Code:  404 - Method: GET - URL: /api/feed/images/91338a2e-fb20-4a17-a930-0720d6b36876.jpg
+
+
+    {"statusCode":404,"error":"Not Found","path":"/api/feed/images/91338a2e-fb20-4a17-a930-0720d6b36876.jpg","method":"GET","timeStamp":"2021-12-22T17:28:03.182Z"}
+
+  
+    User: "Not signed in"
+
+
+      NotFoundException: Cannot GET /api/feed/images/91338a2e-fb20-4a17-a930-0720d6b36876.jpg
+    at callback (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\@nestjs\core\router\routes-resolver.js:77:19)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\@nestjs\core\router\router-proxy.js:9:23
+    at Layer.handle [as handle_request] (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\express\lib\router\index.js:275:10)
+    at urlencodedParser (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\body-parser\lib\types\urlencoded.js:91:7)
+    at Layer.handle [as handle_request] (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\express\lib\router\index.js:317:13)
+
+Response Code:  404 - Method: GET - URL: /chat-api/images/80e48faf-ffe7-4441-b793-58f033514047.jpg
+
+
+    {"statusCode":404,"error":"Not Found","path":"/chat-api/images/80e48faf-ffe7-4441-b793-58f033514047.jpg","method":"GET","timeStamp":"2021-12-22T17:28:50.892Z"}
+
+  
+    User: "Not signed in"
+
+
+      NotFoundException: Cannot GET /chat-api/images/80e48faf-ffe7-4441-b793-58f033514047.jpg
+    at callback (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\@nestjs\core\router\routes-resolver.js:77:19)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\@nestjs\core\router\router-proxy.js:9:23
+    at Layer.handle [as handle_request] (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\express\lib\router\index.js:275:10)
+    at urlencodedParser (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\body-parser\lib\types\urlencoded.js:91:7)
+    at Layer.handle [as handle_request] (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\express\lib\router\index.js:317:13)
+
+Response Code:  404 - Method: GET - URL: /chat-api/images/91338a2e-fb20-4a17-a930-0720d6b36876.jpg
+
+
+    {"statusCode":404,"error":"Not Found","path":"/chat-api/images/91338a2e-fb20-4a17-a930-0720d6b36876.jpg","method":"GET","timeStamp":"2021-12-22T17:28:50.894Z"}
+
+  
+    User: "Not signed in"
+
+
+      NotFoundException: Cannot GET /chat-api/images/91338a2e-fb20-4a17-a930-0720d6b36876.jpg
+    at callback (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\@nestjs\core\router\routes-resolver.js:77:19)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\@nestjs\core\router\router-proxy.js:9:23
+    at Layer.handle [as handle_request] (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\express\lib\router\index.js:275:10)
+    at urlencodedParser (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\body-parser\lib\types\urlencoded.js:91:7)
+    at Layer.handle [as handle_request] (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\express\lib\router\index.js:317:13)
+
+Response Code:  404 - Method: GET - URL: /chat-api/feed/images/80e48faf-ffe7-4441-b793-58f033514047.jpg
+
+
+    {"statusCode":404,"error":"Not Found","path":"/chat-api/feed/images/80e48faf-ffe7-4441-b793-58f033514047.jpg","method":"GET","timeStamp":"2021-12-22T17:30:43.882Z"}
+
+  
+    User: "Not signed in"
+
+
+      NotFoundException: Cannot GET /chat-api/feed/images/80e48faf-ffe7-4441-b793-58f033514047.jpg
+    at callback (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\@nestjs\core\router\routes-resolver.js:77:19)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\@nestjs\core\router\router-proxy.js:9:23
+    at Layer.handle [as handle_request] (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\express\lib\router\index.js:275:10)
+    at urlencodedParser (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\body-parser\lib\types\urlencoded.js:91:7)
+    at Layer.handle [as handle_request] (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\express\lib\router\index.js:317:13)
+
+Response Code:  404 - Method: GET - URL: /chat-api/feed/images/91338a2e-fb20-4a17-a930-0720d6b36876.jpg
+
+
+    {"statusCode":404,"error":"Not Found","path":"/chat-api/feed/images/91338a2e-fb20-4a17-a930-0720d6b36876.jpg","method":"GET","timeStamp":"2021-12-22T17:30:43.884Z"}
+
+  
+    User: "Not signed in"
+
+
+      NotFoundException: Cannot GET /chat-api/feed/images/91338a2e-fb20-4a17-a930-0720d6b36876.jpg
+    at callback (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\@nestjs\core\router\routes-resolver.js:77:19)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\@nestjs\core\router\router-proxy.js:9:23
+    at Layer.handle [as handle_request] (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\express\lib\router\index.js:275:10)
+    at urlencodedParser (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\body-parser\lib\types\urlencoded.js:91:7)
+    at Layer.handle [as handle_request] (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\express\lib\router\index.js:317:13)
+
+Response Code:  404 - Method: GET - URL: /chat-api/images/91338a2e-fb20-4a17-a930-0720d6b36876.jpg
+
+
+    {"statusCode":404,"error":"Not Found","path":"/chat-api/images/91338a2e-fb20-4a17-a930-0720d6b36876.jpg","method":"GET","timeStamp":"2021-12-22T17:31:20.587Z"}
+
+  
+    User: "Not signed in"
+
+
+      NotFoundException: Cannot GET /chat-api/images/91338a2e-fb20-4a17-a930-0720d6b36876.jpg
+    at callback (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\@nestjs\core\router\routes-resolver.js:77:19)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\@nestjs\core\router\router-proxy.js:9:23
+    at Layer.handle [as handle_request] (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\express\lib\router\index.js:275:10)
+    at urlencodedParser (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\body-parser\lib\types\urlencoded.js:91:7)
+    at Layer.handle [as handle_request] (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\express\lib\router\index.js:317:13)
+
+Response Code:  404 - Method: GET - URL: /chat-api/images/80e48faf-ffe7-4441-b793-58f033514047.jpg
+
+
+    {"statusCode":404,"error":"Not Found","path":"/chat-api/images/80e48faf-ffe7-4441-b793-58f033514047.jpg","method":"GET","timeStamp":"2021-12-22T17:31:20.686Z"}
+
+  
+    User: "Not signed in"
+
+
+      NotFoundException: Cannot GET /chat-api/images/80e48faf-ffe7-4441-b793-58f033514047.jpg
+    at callback (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\@nestjs\core\router\routes-resolver.js:77:19)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\@nestjs\core\router\router-proxy.js:9:23
+    at Layer.handle [as handle_request] (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\express\lib\router\index.js:275:10)
+    at urlencodedParser (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\body-parser\lib\types\urlencoded.js:91:7)
+    at Layer.handle [as handle_request] (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\express\lib\router\index.js:317:13)
+
+Response Code:  404 - Method: GET - URL: /api/feed/images/91338a2e-fb20-4a17-a930-0720d6b36876.jpg
+
+
+    {"statusCode":404,"error":"Not Found","path":"/api/feed/images/91338a2e-fb20-4a17-a930-0720d6b36876.jpg","method":"GET","timeStamp":"2021-12-22T17:32:37.388Z"}
+
+  
+    User: "Not signed in"
+
+
+      NotFoundException: Cannot GET /api/feed/images/91338a2e-fb20-4a17-a930-0720d6b36876.jpg
+    at callback (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\@nestjs\core\router\routes-resolver.js:77:19)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\@nestjs\core\router\router-proxy.js:9:23
+    at Layer.handle [as handle_request] (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\express\lib\router\index.js:275:10)
+    at urlencodedParser (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\body-parser\lib\types\urlencoded.js:91:7)
+    at Layer.handle [as handle_request] (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\express\lib\router\index.js:317:13)
+
+Response Code:  404 - Method: GET - URL: /api/feed/images/80e48faf-ffe7-4441-b793-58f033514047.jpg
+
+
+    {"statusCode":404,"error":"Not Found","path":"/api/feed/images/80e48faf-ffe7-4441-b793-58f033514047.jpg","method":"GET","timeStamp":"2021-12-22T17:32:37.390Z"}
+
+  
+    User: "Not signed in"
+
+
+      NotFoundException: Cannot GET /api/feed/images/80e48faf-ffe7-4441-b793-58f033514047.jpg
+    at callback (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\@nestjs\core\router\routes-resolver.js:77:19)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\@nestjs\core\router\router-proxy.js:9:23
+    at Layer.handle [as handle_request] (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\express\lib\router\index.js:275:10)
+    at urlencodedParser (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\body-parser\lib\types\urlencoded.js:91:7)
+    at Layer.handle [as handle_request] (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\express\lib\router\index.js:317:13)
+
+Response Code:  404 - Method: GET - URL: /api/feed/images/80e48faf-ffe7-4441-b793-58f033514047.jpg
+
+
+    {"statusCode":404,"error":"Not Found","path":"/api/feed/images/80e48faf-ffe7-4441-b793-58f033514047.jpg","method":"GET","timeStamp":"2021-12-22T17:32:48.043Z"}
+
+  
+    User: "Not signed in"
+
+
+      NotFoundException: Cannot GET /api/feed/images/80e48faf-ffe7-4441-b793-58f033514047.jpg
+    at callback (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\@nestjs\core\router\routes-resolver.js:77:19)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\@nestjs\core\router\router-proxy.js:9:23
+    at Layer.handle [as handle_request] (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\express\lib\router\index.js:275:10)
+    at urlencodedParser (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\body-parser\lib\types\urlencoded.js:91:7)
+    at Layer.handle [as handle_request] (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\express\lib\router\index.js:317:13)
+
+Response Code:  404 - Method: GET - URL: /api/feed/images/91338a2e-fb20-4a17-a930-0720d6b36876.jpg
+
+
+    {"statusCode":404,"error":"Not Found","path":"/api/feed/images/91338a2e-fb20-4a17-a930-0720d6b36876.jpg","method":"GET","timeStamp":"2021-12-22T17:32:48.046Z"}
+
+  
+    User: "Not signed in"
+
+
+      NotFoundException: Cannot GET /api/feed/images/91338a2e-fb20-4a17-a930-0720d6b36876.jpg
+    at callback (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\@nestjs\core\router\routes-resolver.js:77:19)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\@nestjs\core\router\router-proxy.js:9:23
+    at Layer.handle [as handle_request] (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\express\lib\router\index.js:275:10)
+    at urlencodedParser (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\body-parser\lib\types\urlencoded.js:91:7)
+    at Layer.handle [as handle_request] (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\express\lib\router\index.js:317:13)
+
+Response Code:  404 - Method: GET - URL: /api/feed/images/80e48faf-ffe7-4441-b793-58f033514047.jpg
+
+
+    {"statusCode":404,"error":"Not Found","path":"/api/feed/images/80e48faf-ffe7-4441-b793-58f033514047.jpg","method":"GET","timeStamp":"2021-12-22T17:33:08.860Z"}
+
+  
+    User: "Not signed in"
+
+
+      NotFoundException: Cannot GET /api/feed/images/80e48faf-ffe7-4441-b793-58f033514047.jpg
+    at callback (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\@nestjs\core\router\routes-resolver.js:77:19)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\@nestjs\core\router\router-proxy.js:9:23
+    at Layer.handle [as handle_request] (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\express\lib\router\index.js:275:10)
+    at urlencodedParser (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\body-parser\lib\types\urlencoded.js:91:7)
+    at Layer.handle [as handle_request] (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\express\lib\router\index.js:317:13)
+
+Response Code:  404 - Method: GET - URL: /chat-api/images/80e48faf-ffe7-4441-b793-58f033514047.jpg
+
+
+    {"statusCode":404,"error":"Not Found","path":"/chat-api/images/80e48faf-ffe7-4441-b793-58f033514047.jpg","method":"GET","timeStamp":"2021-12-22T17:33:23.561Z"}
+
+  
+    User: "Not signed in"
+
+
+      NotFoundException: Cannot GET /chat-api/images/80e48faf-ffe7-4441-b793-58f033514047.jpg
+    at callback (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\@nestjs\core\router\routes-resolver.js:77:19)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\@nestjs\core\router\router-proxy.js:9:23
+    at Layer.handle [as handle_request] (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\express\lib\router\index.js:275:10)
+    at urlencodedParser (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\body-parser\lib\types\urlencoded.js:91:7)
+    at Layer.handle [as handle_request] (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\express\lib\router\index.js:317:13)
+
+Response Code:  500 - Method: GET - URL: /api/feed/image/default-profile-pic.png
+
+
+    {"statusCode":500,"error":"Critical internal server error occurred!","path":"/api/feed/image/default-profile-pic.png","method":"GET","timeStamp":"2021-12-22T17:35:28.104Z"}
+
+  
+    User: "Not signed in"
+
+
+      Critical internal server error occurred!
+
+Response Code:  404 - Method: GET - URL: /api/feed/images/91338a2e-fb20-4a17-a930-0720d6b36876.jpg
+
+
+    {"statusCode":404,"error":"Not Found","path":"/api/feed/images/91338a2e-fb20-4a17-a930-0720d6b36876.jpg","method":"GET","timeStamp":"2021-12-22T17:43:17.595Z"}
+
+  
+    User: "Not signed in"
+
+
+      NotFoundException: Cannot GET /api/feed/images/91338a2e-fb20-4a17-a930-0720d6b36876.jpg
+    at callback (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\@nestjs\core\router\routes-resolver.js:77:19)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\@nestjs\core\router\router-proxy.js:9:23
+    at Layer.handle [as handle_request] (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\express\lib\router\index.js:275:10)
+    at urlencodedParser (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\body-parser\lib\types\urlencoded.js:91:7)
+    at Layer.handle [as handle_request] (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\express\lib\router\index.js:317:13)
+
+Response Code:  404 - Method: GET - URL: /api/feed/images/80e48faf-ffe7-4441-b793-58f033514047.jpg
+
+
+    {"statusCode":404,"error":"Not Found","path":"/api/feed/images/80e48faf-ffe7-4441-b793-58f033514047.jpg","method":"GET","timeStamp":"2021-12-22T17:43:17.598Z"}
+
+  
+    User: "Not signed in"
+
+
+      NotFoundException: Cannot GET /api/feed/images/80e48faf-ffe7-4441-b793-58f033514047.jpg
+    at callback (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\@nestjs\core\router\routes-resolver.js:77:19)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\@nestjs\core\router\router-proxy.js:9:23
+    at Layer.handle [as handle_request] (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\express\lib\router\index.js:275:10)
+    at urlencodedParser (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\body-parser\lib\types\urlencoded.js:91:7)
+    at Layer.handle [as handle_request] (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\express\lib\router\index.js:317:13)
+
+Response Code:  404 - Method: GET - URL: /api/feed/images/80e48faf-ffe7-4441-b793-58f033514047.jpg
+
+
+    {"statusCode":404,"error":"Not Found","path":"/api/feed/images/80e48faf-ffe7-4441-b793-58f033514047.jpg","method":"GET","timeStamp":"2021-12-22T17:45:50.161Z"}
+
+  
+    User: "Not signed in"
+
+
+      NotFoundException: Cannot GET /api/feed/images/80e48faf-ffe7-4441-b793-58f033514047.jpg
+    at callback (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\@nestjs\core\router\routes-resolver.js:77:19)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\@nestjs\core\router\router-proxy.js:9:23
+    at Layer.handle [as handle_request] (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\express\lib\router\index.js:275:10)
+    at urlencodedParser (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\body-parser\lib\types\urlencoded.js:91:7)
+    at Layer.handle [as handle_request] (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\express\lib\router\index.js:317:13)
+
+Response Code:  404 - Method: GET - URL: /api/feed/images/91338a2e-fb20-4a17-a930-0720d6b36876.jpg
+
+
+    {"statusCode":404,"error":"Not Found","path":"/api/feed/images/91338a2e-fb20-4a17-a930-0720d6b36876.jpg","method":"GET","timeStamp":"2021-12-22T17:46:57.904Z"}
+
+  
+    User: "Not signed in"
+
+
+      NotFoundException: Cannot GET /api/feed/images/91338a2e-fb20-4a17-a930-0720d6b36876.jpg
+    at callback (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\@nestjs\core\router\routes-resolver.js:77:19)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\@nestjs\core\router\router-proxy.js:9:23
+    at Layer.handle [as handle_request] (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\express\lib\router\index.js:275:10)
+    at urlencodedParser (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\body-parser\lib\types\urlencoded.js:91:7)
+    at Layer.handle [as handle_request] (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\express\lib\router\index.js:317:13)
+
+Response Code:  404 - Method: GET - URL: /api/feed/images/80e48faf-ffe7-4441-b793-58f033514047.jpg
+
+
+    {"statusCode":404,"error":"Not Found","path":"/api/feed/images/80e48faf-ffe7-4441-b793-58f033514047.jpg","method":"GET","timeStamp":"2021-12-22T17:46:57.911Z"}
+
+  
+    User: "Not signed in"
+
+
+      NotFoundException: Cannot GET /api/feed/images/80e48faf-ffe7-4441-b793-58f033514047.jpg
+    at callback (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\@nestjs\core\router\routes-resolver.js:77:19)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\@nestjs\core\router\router-proxy.js:9:23
+    at Layer.handle [as handle_request] (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\express\lib\router\index.js:275:10)
+    at urlencodedParser (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\body-parser\lib\types\urlencoded.js:91:7)
+    at Layer.handle [as handle_request] (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\express\lib\router\index.js:317:13)
+
+Response Code:  404 - Method: GET - URL: /chat-api/images/80e48faf-ffe7-4441-b793-58f033514047.jpg
+
+
+    {"statusCode":404,"error":"Not Found","path":"/chat-api/images/80e48faf-ffe7-4441-b793-58f033514047.jpg","method":"GET","timeStamp":"2021-12-22T17:48:42.113Z"}
+
+  
+    User: "Not signed in"
+
+
+      NotFoundException: Cannot GET /chat-api/images/80e48faf-ffe7-4441-b793-58f033514047.jpg
+    at callback (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\@nestjs\core\router\routes-resolver.js:77:19)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\@nestjs\core\router\router-proxy.js:9:23
+    at Layer.handle [as handle_request] (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\express\lib\router\index.js:275:10)
+    at urlencodedParser (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\body-parser\lib\types\urlencoded.js:91:7)
+    at Layer.handle [as handle_request] (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\express\lib\router\index.js:317:13)
+
+Response Code:  404 - Method: GET - URL: /chat-api/images/91338a2e-fb20-4a17-a930-0720d6b36876.jpg
+
+
+    {"statusCode":404,"error":"Not Found","path":"/chat-api/images/91338a2e-fb20-4a17-a930-0720d6b36876.jpg","method":"GET","timeStamp":"2021-12-22T17:48:42.118Z"}
+
+  
+    User: "Not signed in"
+
+
+      NotFoundException: Cannot GET /chat-api/images/91338a2e-fb20-4a17-a930-0720d6b36876.jpg
+    at callback (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\@nestjs\core\router\routes-resolver.js:77:19)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\@nestjs\core\router\router-proxy.js:9:23
+    at Layer.handle [as handle_request] (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\express\lib\router\index.js:275:10)
+    at urlencodedParser (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\body-parser\lib\types\urlencoded.js:91:7)
+    at Layer.handle [as handle_request] (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\express\lib\router\index.js:317:13)
+
+Response Code:  404 - Method: GET - URL: /chat-api/images/80e48faf-ffe7-4441-b793-58f033514047.jpg
+
+
+    {"statusCode":404,"error":"Not Found","path":"/chat-api/images/80e48faf-ffe7-4441-b793-58f033514047.jpg","method":"GET","timeStamp":"2021-12-22T17:49:50.178Z"}
+
+  
+    User: "Not signed in"
+
+
+      NotFoundException: Cannot GET /chat-api/images/80e48faf-ffe7-4441-b793-58f033514047.jpg
+    at callback (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\@nestjs\core\router\routes-resolver.js:77:19)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\@nestjs\core\router\router-proxy.js:9:23
+    at Layer.handle [as handle_request] (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\express\lib\router\index.js:275:10)
+    at urlencodedParser (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\body-parser\lib\types\urlencoded.js:91:7)
+    at Layer.handle [as handle_request] (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\express\lib\router\index.js:317:13)
+
+Response Code:  404 - Method: GET - URL: /chat-api/images/91338a2e-fb20-4a17-a930-0720d6b36876.jpg
+
+
+    {"statusCode":404,"error":"Not Found","path":"/chat-api/images/91338a2e-fb20-4a17-a930-0720d6b36876.jpg","method":"GET","timeStamp":"2021-12-22T17:49:50.180Z"}
+
+  
+    User: "Not signed in"
+
+
+      NotFoundException: Cannot GET /chat-api/images/91338a2e-fb20-4a17-a930-0720d6b36876.jpg
+    at callback (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\@nestjs\core\router\routes-resolver.js:77:19)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\@nestjs\core\router\router-proxy.js:9:23
+    at Layer.handle [as handle_request] (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\express\lib\router\index.js:275:10)
+    at urlencodedParser (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\body-parser\lib\types\urlencoded.js:91:7)
+    at Layer.handle [as handle_request] (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\express\lib\router\index.js:317:13)
+
+Response Code:  404 - Method: GET - URL: /chat-api/images/80e48faf-ffe7-4441-b793-58f033514047.jpg
+
+
+    {"statusCode":404,"error":"Not Found","path":"/chat-api/images/80e48faf-ffe7-4441-b793-58f033514047.jpg","method":"GET","timeStamp":"2021-12-22T17:50:38.892Z"}
+
+  
+    User: "Not signed in"
+
+
+      NotFoundException: Cannot GET /chat-api/images/80e48faf-ffe7-4441-b793-58f033514047.jpg
+    at callback (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\@nestjs\core\router\routes-resolver.js:77:19)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\@nestjs\core\router\router-proxy.js:9:23
+    at Layer.handle [as handle_request] (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\express\lib\router\index.js:275:10)
+    at urlencodedParser (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\body-parser\lib\types\urlencoded.js:91:7)
+    at Layer.handle [as handle_request] (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\express\lib\router\index.js:317:13)
+
+Response Code:  404 - Method: GET - URL: /chat-api/images/91338a2e-fb20-4a17-a930-0720d6b36876.jpg
+
+
+    {"statusCode":404,"error":"Not Found","path":"/chat-api/images/91338a2e-fb20-4a17-a930-0720d6b36876.jpg","method":"GET","timeStamp":"2021-12-22T17:51:11.021Z"}
+
+  
+    User: "Not signed in"
+
+
+      NotFoundException: Cannot GET /chat-api/images/91338a2e-fb20-4a17-a930-0720d6b36876.jpg
+    at callback (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\@nestjs\core\router\routes-resolver.js:77:19)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\@nestjs\core\router\router-proxy.js:9:23
+    at Layer.handle [as handle_request] (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\express\lib\router\index.js:275:10)
+    at urlencodedParser (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\body-parser\lib\types\urlencoded.js:91:7)
+    at Layer.handle [as handle_request] (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\express\lib\router\index.js:317:13)
+
+Response Code:  404 - Method: GET - URL: /chat-api/images/80e48faf-ffe7-4441-b793-58f033514047.jpg
+
+
+    {"statusCode":404,"error":"Not Found","path":"/chat-api/images/80e48faf-ffe7-4441-b793-58f033514047.jpg","method":"GET","timeStamp":"2021-12-22T17:51:11.026Z"}
+
+  
+    User: "Not signed in"
+
+
+      NotFoundException: Cannot GET /chat-api/images/80e48faf-ffe7-4441-b793-58f033514047.jpg
+    at callback (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\@nestjs\core\router\routes-resolver.js:77:19)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\@nestjs\core\router\router-proxy.js:9:23
+    at Layer.handle [as handle_request] (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\express\lib\router\index.js:275:10)
+    at urlencodedParser (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\body-parser\lib\types\urlencoded.js:91:7)
+    at Layer.handle [as handle_request] (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\express\lib\router\index.js:317:13)
+
+Response Code:  403 - Method: POST - URL: /api/auth/login
+
+
+    {"statusCode":403,"error":"Invalid Credentials","path":"/api/auth/login","method":"POST","timeStamp":"2022-01-03T15:51:32.460Z"}
+
+  
+    User: "Not signed in"
+
+
+      HttpException: Http Exception
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\src\auth\services\auth.service.ts:77:17
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\switchMap.ts:106:21
+    at OperatorSubscriber._this._next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\OperatorSubscriber.ts:43:13)
+    at OperatorSubscriber.Subscriber.next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\Subscriber.ts:75:12)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\observable\innerFrom.ts:89:24
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+
+Response Code:  403 - Method: POST - URL: /api/auth/login
+
+
+    {"statusCode":403,"error":"Invalid Credentials","path":"/api/auth/login","method":"POST","timeStamp":"2022-01-03T15:51:44.351Z"}
+
+  
+    User: "Not signed in"
+
+
+      HttpException: Http Exception
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\src\auth\services\auth.service.ts:77:17
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\switchMap.ts:106:21
+    at OperatorSubscriber._this._next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\OperatorSubscriber.ts:43:13)
+    at OperatorSubscriber.Subscriber.next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\Subscriber.ts:75:12)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\observable\innerFrom.ts:89:24
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+
+Response Code:  403 - Method: POST - URL: /api/auth/login
+
+
+    {"statusCode":403,"error":"Invalid Credentials","path":"/api/auth/login","method":"POST","timeStamp":"2022-01-03T15:51:50.257Z"}
+
+  
+    User: "Not signed in"
+
+
+      HttpException: Http Exception
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\src\auth\services\auth.service.ts:77:17
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\switchMap.ts:106:21
+    at OperatorSubscriber._this._next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\OperatorSubscriber.ts:43:13)
+    at OperatorSubscriber.Subscriber.next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\Subscriber.ts:75:12)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\observable\innerFrom.ts:89:24
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+
+Response Code:  403 - Method: POST - URL: /api/auth/login
+
+
+    {"statusCode":403,"error":"Invalid Credentials","path":"/api/auth/login","method":"POST","timeStamp":"2022-01-03T15:52:05.824Z"}
+
+  
+    User: "Not signed in"
+
+
+      HttpException: Http Exception
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\src\auth\services\auth.service.ts:77:17
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\switchMap.ts:106:21
+    at OperatorSubscriber._this._next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\OperatorSubscriber.ts:43:13)
+    at OperatorSubscriber.Subscriber.next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\Subscriber.ts:75:12)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\observable\innerFrom.ts:89:24
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+
+Response Code:  403 - Method: POST - URL: /api/auth/login
+
+
+    {"statusCode":403,"error":"Invalid Credentials","path":"/api/auth/login","method":"POST","timeStamp":"2022-01-03T15:52:08.095Z"}
+
+  
+    User: "Not signed in"
+
+
+      HttpException: Http Exception
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\src\auth\services\auth.service.ts:77:17
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\switchMap.ts:106:21
+    at OperatorSubscriber._this._next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\OperatorSubscriber.ts:43:13)
+    at OperatorSubscriber.Subscriber.next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\Subscriber.ts:75:12)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\observable\innerFrom.ts:89:24
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+
+Response Code:  403 - Method: POST - URL: /api/auth/login
+
+
+    {"statusCode":403,"error":"Invalid Credentials","path":"/api/auth/login","method":"POST","timeStamp":"2022-01-03T15:52:21.614Z"}
+
+  
+    User: "Not signed in"
+
+
+      HttpException: Http Exception
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\src\auth\services\auth.service.ts:77:17
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\switchMap.ts:106:21
+    at OperatorSubscriber._this._next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\OperatorSubscriber.ts:43:13)
+    at OperatorSubscriber.Subscriber.next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\Subscriber.ts:75:12)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\observable\innerFrom.ts:89:24
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+
+Response Code:  403 - Method: POST - URL: /api/auth/login
+
+
+    {"statusCode":403,"error":"Invalid Credentials","path":"/api/auth/login","method":"POST","timeStamp":"2022-01-03T15:52:36.691Z"}
+
+  
+    User: "Not signed in"
+
+
+      HttpException: Http Exception
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\src\auth\services\auth.service.ts:77:17
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\switchMap.ts:106:21
+    at OperatorSubscriber._this._next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\OperatorSubscriber.ts:43:13)
+    at OperatorSubscriber.Subscriber.next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\Subscriber.ts:75:12)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\observable\innerFrom.ts:89:24
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+
+Response Code:  403 - Method: POST - URL: /api/auth/login
+
+
+    {"statusCode":403,"error":"Invalid Credentials","path":"/api/auth/login","method":"POST","timeStamp":"2022-01-03T15:55:01.394Z"}
+
+  
+    User: "Not signed in"
+
+
+      HttpException: Http Exception
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\src\auth\services\auth.service.ts:77:17
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\switchMap.ts:106:21
+    at OperatorSubscriber._this._next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\OperatorSubscriber.ts:43:13)
+    at OperatorSubscriber.Subscriber.next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\Subscriber.ts:75:12)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\observable\innerFrom.ts:89:24
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+
+Response Code:  403 - Method: POST - URL: /api/auth/login
+
+
+    {"statusCode":403,"error":"Invalid Credentials","path":"/api/auth/login","method":"POST","timeStamp":"2022-01-03T15:55:02.079Z"}
+
+  
+    User: "Not signed in"
+
+
+      HttpException: Http Exception
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\src\auth\services\auth.service.ts:77:17
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\switchMap.ts:106:21
+    at OperatorSubscriber._this._next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\OperatorSubscriber.ts:43:13)
+    at OperatorSubscriber.Subscriber.next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\Subscriber.ts:75:12)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\observable\innerFrom.ts:89:24
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+
+Response Code:  403 - Method: POST - URL: /api/auth/login
+
+
+    {"statusCode":403,"error":"Invalid Credentials","path":"/api/auth/login","method":"POST","timeStamp":"2022-01-03T15:55:02.605Z"}
+
+  
+    User: "Not signed in"
+
+
+      HttpException: Http Exception
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\src\auth\services\auth.service.ts:77:17
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\switchMap.ts:106:21
+    at OperatorSubscriber._this._next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\OperatorSubscriber.ts:43:13)
+    at OperatorSubscriber.Subscriber.next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\Subscriber.ts:75:12)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\observable\innerFrom.ts:89:24
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+
+Response Code:  403 - Method: POST - URL: /api/auth/login
+
+
+    {"statusCode":403,"error":"Invalid Credentials","path":"/api/auth/login","method":"POST","timeStamp":"2022-01-03T15:55:03.039Z"}
+
+  
+    User: "Not signed in"
+
+
+      HttpException: Http Exception
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\src\auth\services\auth.service.ts:77:17
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\switchMap.ts:106:21
+    at OperatorSubscriber._this._next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\OperatorSubscriber.ts:43:13)
+    at OperatorSubscriber.Subscriber.next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\Subscriber.ts:75:12)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\observable\innerFrom.ts:89:24
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+
+Response Code:  403 - Method: POST - URL: /api/auth/login
+
+
+    {"statusCode":403,"error":"Invalid Credentials","path":"/api/auth/login","method":"POST","timeStamp":"2022-01-03T15:55:03.331Z"}
+
+  
+    User: "Not signed in"
+
+
+      HttpException: Http Exception
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\src\auth\services\auth.service.ts:77:17
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\switchMap.ts:106:21
+    at OperatorSubscriber._this._next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\OperatorSubscriber.ts:43:13)
+    at OperatorSubscriber.Subscriber.next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\Subscriber.ts:75:12)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\observable\innerFrom.ts:89:24
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+
+Response Code:  403 - Method: POST - URL: /api/auth/login
+
+
+    {"statusCode":403,"error":"Invalid Credentials","path":"/api/auth/login","method":"POST","timeStamp":"2022-01-03T15:55:03.600Z"}
+
+  
+    User: "Not signed in"
+
+
+      HttpException: Http Exception
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\src\auth\services\auth.service.ts:77:17
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\switchMap.ts:106:21
+    at OperatorSubscriber._this._next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\OperatorSubscriber.ts:43:13)
+    at OperatorSubscriber.Subscriber.next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\Subscriber.ts:75:12)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\observable\innerFrom.ts:89:24
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+
+Response Code:  403 - Method: POST - URL: /api/auth/login
+
+
+    {"statusCode":403,"error":"Invalid Credentials","path":"/api/auth/login","method":"POST","timeStamp":"2022-01-03T15:55:03.887Z"}
+
+  
+    User: "Not signed in"
+
+
+      HttpException: Http Exception
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\src\auth\services\auth.service.ts:77:17
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\switchMap.ts:106:21
+    at OperatorSubscriber._this._next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\OperatorSubscriber.ts:43:13)
+    at OperatorSubscriber.Subscriber.next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\Subscriber.ts:75:12)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\observable\innerFrom.ts:89:24
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+
+Response Code:  403 - Method: POST - URL: /api/auth/login
+
+
+    {"statusCode":403,"error":"Invalid Credentials","path":"/api/auth/login","method":"POST","timeStamp":"2022-01-03T15:55:04.144Z"}
+
+  
+    User: "Not signed in"
+
+
+      HttpException: Http Exception
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\src\auth\services\auth.service.ts:77:17
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\switchMap.ts:106:21
+    at OperatorSubscriber._this._next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\OperatorSubscriber.ts:43:13)
+    at OperatorSubscriber.Subscriber.next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\Subscriber.ts:75:12)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\observable\innerFrom.ts:89:24
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+
+Response Code:  403 - Method: POST - URL: /api/auth/login
+
+
+    {"statusCode":403,"error":"Invalid Credentials","path":"/api/auth/login","method":"POST","timeStamp":"2022-01-03T15:55:04.363Z"}
+
+  
+    User: "Not signed in"
+
+
+      HttpException: Http Exception
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\src\auth\services\auth.service.ts:77:17
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\switchMap.ts:106:21
+    at OperatorSubscriber._this._next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\OperatorSubscriber.ts:43:13)
+    at OperatorSubscriber.Subscriber.next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\Subscriber.ts:75:12)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\observable\innerFrom.ts:89:24
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+
+Response Code:  403 - Method: POST - URL: /api/auth/login
+
+
+    {"statusCode":403,"error":"Invalid Credentials","path":"/api/auth/login","method":"POST","timeStamp":"2022-01-03T15:55:04.576Z"}
+
+  
+    User: "Not signed in"
+
+
+      HttpException: Http Exception
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\src\auth\services\auth.service.ts:77:17
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\switchMap.ts:106:21
+    at OperatorSubscriber._this._next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\OperatorSubscriber.ts:43:13)
+    at OperatorSubscriber.Subscriber.next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\Subscriber.ts:75:12)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\observable\innerFrom.ts:89:24
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+
+Response Code:  403 - Method: POST - URL: /api/auth/login
+
+
+    {"statusCode":403,"error":"Invalid Credentials","path":"/api/auth/login","method":"POST","timeStamp":"2022-01-03T15:55:19.151Z"}
+
+  
+    User: "Not signed in"
+
+
+      HttpException: Http Exception
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\src\auth\services\auth.service.ts:77:17
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\switchMap.ts:106:21
+    at OperatorSubscriber._this._next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\OperatorSubscriber.ts:43:13)
+    at OperatorSubscriber.Subscriber.next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\Subscriber.ts:75:12)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\observable\innerFrom.ts:89:24
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+
+Response Code:  401 - Method: GET - URL: /api/user/6
+
+
+    {"statusCode":401,"error":"Unauthorized","path":"/api/user/6","method":"GET","timeStamp":"2022-01-03T15:59:12.895Z"}
+
+  
+    User: "Not signed in"
+
+
+      UnauthorizedException: Unauthorized
+    at JwtGuard.handleRequest (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\@nestjs\passport\dist\auth.guard.js:68:30)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\@nestjs\passport\dist\auth.guard.js:49:128
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\@nestjs\passport\dist\auth.guard.js:86:24
+    at allFailed (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\passport\lib\middleware\authenticate.js:101:18)
+    at attempt (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\passport\lib\middleware\authenticate.js:174:28)
+    at JwtStrategy.strategy.fail (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\passport\lib\middleware\authenticate.js:296:9)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\passport-jwt\lib\strategy.js:106:33
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\jsonwebtoken\verify.js:152:16
+    at getSecret (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\jsonwebtoken\verify.js:90:14)
+    at Object.module.exports [as verify] (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\jsonwebtoken\verify.js:94:10)
+
+Response Code:  403 - Method: POST - URL: /api/auth/login
+
+
+    {"statusCode":403,"error":"Invalid Credentials","path":"/api/auth/login","method":"POST","timeStamp":"2022-01-03T15:59:22.041Z"}
+
+  
+    User: "Not signed in"
+
+
+      HttpException: Http Exception
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\src\auth\services\auth.service.ts:77:17
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\switchMap.ts:106:21
+    at OperatorSubscriber._this._next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\operators\OperatorSubscriber.ts:43:13)
+    at OperatorSubscriber.Subscriber.next (C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\Subscriber.ts:75:12)
+    at C:\Users\Jose\Desktop\chatApplication\chat-api\node_modules\rxjs\src\internal\observable\innerFrom.ts:89:24
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+
+Response Code:  500 - Method: GET - URL: /api/feed/image/default-profile-pic.png
+
+
+    {"statusCode":500,"error":"Critical internal server error occurred!","path":"/api/feed/image/default-profile-pic.png","method":"GET","timeStamp":"2022-01-03T17:14:19.759Z"}
+
+  
+    User: "Not signed in"
+
+
+      Critical internal server error occurred!
+
+Response Code:  500 - Method: GET - URL: /api/feed/image/default-profile-pic.png
+
+
+    {"statusCode":500,"error":"Critical internal server error occurred!","path":"/api/feed/image/default-profile-pic.png","method":"GET","timeStamp":"2022-01-03T17:15:12.469Z"}
+
+  
+    User: "Not signed in"
+
+
+      Critical internal server error occurred!
+
